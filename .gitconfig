@@ -1,0 +1,8 @@
+[user]
+	ename = Alex
+	name = Alex
+	email = alex.pallango.hinojoza@gmail.com
+[core]
+	editor = nano
+[credential]
+	helper = store

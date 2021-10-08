@@ -1,0 +1,4 @@
+#excluimos del control de versiones, push a github, es decir que no se suben
+.gnupg/
+.gitlocal/
+.git-credentials
