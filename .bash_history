@@ -44,3 +44,22 @@ cd
 pwd
 mv /home/dammie/Descargas/backup_db1.zip.gpg dumps/
 exit
+whoiam
+whoami
+ls -a
+more .gitconfig 
+git config --global credential.helper store
+more .gitconfig 
+nano .gitignore
+git status
+git add .
+ls
+git status
+git commit -am "subiendo la database encriptada"
+git log
+pwd
+ls
+git push origin master
+PWD
+pwd
+exit
