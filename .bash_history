@@ -63,3 +63,13 @@ git push origin master
 PWD
 pwd
 exit
+pwd
+git add .
+ls
+git log
+git commit -am "subiendo 3ra copia bbdd encriptada"
+git log
+pwd
+ls
+git push origin master
+pwd
