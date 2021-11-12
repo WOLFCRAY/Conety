@@ -1,2 +1,2 @@
 # Odoo
-Esta es la primera prueba de que funciona el README
+Este es un archivo explicativo de nuestro codigo odoo
