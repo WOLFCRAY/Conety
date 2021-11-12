@@ -73,3 +73,35 @@ pwd
 ls
 git push origin master
 pwd
+git log
+git checkout 07c4269
+git commit 
+git add .
+git commit -am "recuperando la database"
+git checkout 07c4269
+clear
+git log
+git branch
+git  master
+git branch
+git checkout master
+git log
+git branch
+git checkout add
+git log
+git checkout master
+git log
+git checkout 368dc
+git log
+git branch
+ls
+git remote add https://github.com/WOLFCRAY/web
+git remote -v
+git remote remove
+git remote remove https://github.com/WOLFCRAY/web
+git remote remove https://github.com/WOLFCRAY/myodoo.git
+git remote remove origin https://github.com/WOLFCRAY/myodoo.git
+git remote remove origin
+git remote add https://github.com/WOLFCRAY/web.git
+git remote add origin https://github.com/WOLFCRAY/web.git
+git remote -v
