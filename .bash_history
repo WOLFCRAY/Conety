@@ -115,3 +115,32 @@ git commit -m "Backup codigo odoo"
 git status
 git branch
 git branch master
+ls
+git remote add https://github.com/WOLFCRAY/Conety
+git remote -v
+git remote remove
+
+git remote remove origin
+git remote add origin https://github.com/WOLFCRAY/Conety.git
+git remote -v
+more .gitconfig
+nano .gitignore
+ls
+git add .
+ls
+git status
+git commit -am "subiendo la bbdd encriptada original"
+git log
+pwd
+git push origin master
+git commit -am "bbdd original"
+git log
+git push
+git push origin master
+exit
+git bash
+git --help
+git branch
+git branch master
+git switch master
+git branch
