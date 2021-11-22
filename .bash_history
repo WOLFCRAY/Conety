@@ -105,3 +105,13 @@ git remote remove origin
 git remote add https://github.com/WOLFCRAY/web.git
 git remote add origin https://github.com/WOLFCRAY/web.git
 git remote -v
+cd ..
+cd /opt
+ls
+cd odoo
+ls
+git add .
+git commit -m "Backup codigo odoo"
+git status
+git branch
+git branch master
