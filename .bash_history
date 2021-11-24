@@ -144,3 +144,20 @@ git branch
 git branch master
 git switch master
 git branch
+git push origin master
+git remote -v
+ls
+touch file
+git add .
+git commit -am "file"
+git push origin master
+cd ..
+ls -la
+cd odoo/
+ls -la
+more .gitignore 
+more .gitconfig 
+more .git-credentials 
+git branch develop
+git checkout develop 
+git push origin develop
