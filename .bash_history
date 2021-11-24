@@ -73,3 +73,91 @@ pwd
 ls
 git push origin master
 pwd
+git log
+git checkout 07c4269
+git commit 
+git add .
+git commit -am "recuperando la database"
+git checkout 07c4269
+clear
+git log
+git branch
+git  master
+git branch
+git checkout master
+git log
+git branch
+git checkout add
+git log
+git checkout master
+git log
+git checkout 368dc
+git log
+git branch
+ls
+git remote add https://github.com/WOLFCRAY/web
+git remote -v
+git remote remove
+git remote remove https://github.com/WOLFCRAY/web
+git remote remove https://github.com/WOLFCRAY/myodoo.git
+git remote remove origin https://github.com/WOLFCRAY/myodoo.git
+git remote remove origin
+git remote add https://github.com/WOLFCRAY/web.git
+git remote add origin https://github.com/WOLFCRAY/web.git
+git remote -v
+cd ..
+cd /opt
+ls
+cd odoo
+ls
+git add .
+git commit -m "Backup codigo odoo"
+git status
+git branch
+git branch master
+ls
+git remote add https://github.com/WOLFCRAY/Conety
+git remote -v
+git remote remove
+
+git remote remove origin
+git remote add origin https://github.com/WOLFCRAY/Conety.git
+git remote -v
+more .gitconfig
+nano .gitignore
+ls
+git add .
+ls
+git status
+git commit -am "subiendo la bbdd encriptada original"
+git log
+pwd
+git push origin master
+git commit -am "bbdd original"
+git log
+git push
+git push origin master
+exit
+git bash
+git --help
+git branch
+git branch master
+git switch master
+git branch
+git push origin master
+git remote -v
+ls
+touch file
+git add .
+git commit -am "file"
+git push origin master
+cd ..
+ls -la
+cd odoo/
+ls -la
+more .gitignore 
+more .gitconfig 
+more .git-credentials 
+git branch develop
+git checkout develop 
+git push origin develop
