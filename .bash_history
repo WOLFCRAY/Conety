@@ -161,3 +161,31 @@ more .git-credentials
 git branch develop
 git checkout develop 
 git push origin develop
+git branch
+git branch master
+git checkout master
+git add .
+pwd 
+ls -la
+git log
+ls
+ls dumps/
+git branch
+git status
+git add .
+git commit -am "algo de datos"
+git log
+git checkout master
+git add .
+git commit -am "clean up"
+git log
+git checkout develop
+git checkout master
+git branch
+git merge develop
+git log
+git log --oneline --graph --all
+git branch
+git log --oneline --graph --all
+git remote -v
+git push origin master
