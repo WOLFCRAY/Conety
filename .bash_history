@@ -189,3 +189,23 @@ git branch
 git log --oneline --graph --all
 git remote -v
 git push origin master
+ls
+git branch Pallango
+git branch Martin
+git branch
+git checkout Pallango 
+git add .
+git commit -am "rama Alex"
+
+git branch
+git branch -D develop
+git add .
+git commit -am "rama Alex"
+git push origin Palllango
+git push origin Pallango
+exit
+ls
+ls /opt/odoo/
+tail /etc/passwd
+history
+exit

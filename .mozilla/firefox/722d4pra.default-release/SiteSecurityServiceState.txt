@@ -1,0 +1,6 @@
+firefox.settings.services.mozilla.com:HSTS	0	18957	1669451272510,1,0,2
+services.addons.mozilla.org:HSTS	0	18957	1669448330954,1,0,2
+contile.services.mozilla.com:HSTS	0	18957	1669448327619,1,0,2
+aus5.mozilla.org:HSTS	0	18957	1669448401893,1,0,2
+www.mozilla.org^partitionKey=%28http%2Cmozilla.org%29:HSTS	0	18957	1653637127102,1,1,2
+www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	0	18957	1669448333733,1,0,2
