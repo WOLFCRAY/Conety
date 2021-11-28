@@ -1,0 +1,7 @@
+[2021-11-28 13:52:15.759] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2021-11-28 13:52:17.589] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /opt/odoo/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.62.4
+[2021-11-28 13:52:17.961] [sharedprocess] [info] Extracted extension to /opt/odoo/.vscode/extensions/.fabb7059-be82-4cbc-a5c3-a114d2934076: ms-ceintl.vscode-language-pack-es
+[2021-11-28 13:52:17.970] [sharedprocess] [info] Renamed to /opt/odoo/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.62.4
+[2021-11-28 13:52:17.972] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2021-11-28 13:52:17.973] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2021-11-28 13:52:18.083] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
