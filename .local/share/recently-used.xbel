@@ -165,4 +165,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///opt/odoo/Descargas/web.gif" added="2021-11-30T16:26:54Z" modified="2021-11-30T16:26:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-30T16:26:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

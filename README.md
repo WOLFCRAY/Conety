@@ -3,6 +3,10 @@
 ## Introduccion
 
 ## Pagina Web
+Para la pagina web se ha optado por un tema con unos colores como el amarillo y un azul oscuro, el cual tiene una estructura de Inicio,Blog,Suscripciones,Contactenos y Eventos.
+Esta pagina web esta diseñada perfectamente para Conety, la cual aprovecha para la venta de sus suscripciones para poder brindar a los usuarios una experiencia mejor como se puede observar.
+
+![issue tab](Images/web.gif)
 
 ## Tablero
     Para gestionar la pagina web internamente y agilizar las tareas de los trabajadores, se ha empleado un sistema de tareas en el cual resulta mas facil para los trabajadores organizarse en sus proyectos y poder llevarlos a cabo de una manera muy sencilla.
@@ -68,7 +72,12 @@ Descripción mas detallada.
 
 ## Control de versiones
 
+Para poder gestionar tanto la base de datos como la pagina web y odoo, se ha recurrido a crear un repositorio en github, el cual tiene tres ramas, la rama master, Pallango y Martin. Se ha creado tres ramas para poder trabajar cooperativamente en cuanto al README y juntarlo todo en la rama master, asi cualquier modificacion de la base de datos como la documentacion, se actualiza constantemente por si hubiera alguna perdida de la información, si ese fuera el caso se podria recuperar una version mas reciente de ello.
+
+
 ## Copias de seguridad
+
+En cuanto a la base de datos, para mantener toda la información bien resguardada, se ha comprimido y se ha cifrado para posteriormente poder subirla y si fuera necesario recupararla y decifrarla con una contraseña.
 
 ## Autores
 
