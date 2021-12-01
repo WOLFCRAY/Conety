@@ -6,7 +6,7 @@
     <application id="gnome-initial-setup.desktop" score="5" last-seen="1638033248"/>
     <application id="firefox.desktop" score="699" last-seen="1638289628"/>
     <application id="org.gnome.Terminal.desktop" score="190" last-seen="1638290457"/>
-    <application id="code.desktop" score="1255" last-seen="1638289860"/>
+    <application id="code.desktop" score="2219" last-seen="1638297210"/>
     <application id="org.gnome.gedit.desktop" score="1" last-seen="1638103902"/>
     <application id="gnome-control-center.desktop" score="12" last-seen="1638287317"/>
   </context>

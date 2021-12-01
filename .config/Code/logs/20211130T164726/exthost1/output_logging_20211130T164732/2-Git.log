@@ -33,3 +33,7 @@ Open repository: /opt/odoo
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /opt/odoo/README.md
+> git cat-file -s 9445b45c56f7084e92f5cfc93ab87a68af3f3c6a
+> git show --textconv :README.md

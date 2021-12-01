@@ -13,10 +13,10 @@ location.services.mozilla.com:HSTS	0	18959	1669639677594,1,1,2
 signaler-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1649182954986,1,1,2
 apis.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1669823352002,1,0,2
 www.mozilla.org^partitionKey=%28http%2Cmozilla.org%29:HSTS	0	18957	1653637127102,1,1,2
-chat-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1649182958963,1,1,2
+chat-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1649183711124,1,1,2
 people-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1649182756226,1,1,2
 ogs.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1669823340416,1,0,2
-addons-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1649182153172,1,1,2
+addons-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1649183834089,1,1,2
 accounts.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1669825736530,1,1,2
 www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	2	18961	1669823347932,1,0,2
 contacts.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18961	1669823351161,1,0,2

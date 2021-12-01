@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/opt/odoo/.cache/ibus/dbus-9qiNKbrc,guid=4bd510890c3dd567c55323b761a63f13
-IBUS_DAEMON_PID=2056
+IBUS_ADDRESS=unix:abstract=/opt/odoo/.cache/ibus/dbus-snR2wI4M,guid=9537a0e3eb6b74ce6a55514761a77fa3
+IBUS_DAEMON_PID=2039

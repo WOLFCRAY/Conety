@@ -240,3 +240,18 @@ git branch
 git add .
 git commit -am "readme Alex"
 git push origin Pallango
+git -graph
+branch
+git branch
+git -graph
+git help
+git status
+git help
+git log
+git log -graph
+git log --graph
+git log --all --graph
+git branch
+git add .
+git commit -am "readme sin imagenes"
+git push origin Pallango 

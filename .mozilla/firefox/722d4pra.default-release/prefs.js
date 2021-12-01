@@ -47,6 +47,7 @@ user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1638298186241
 user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1638287338401");
 user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1638308938401");
 user_pref("browser.search.region", "ES");
+user_pref("browser.sessionstore.resume_session_once", true);
 user_pref("browser.sessionstore.upgradeBackup.latestBuildID", "20211028161635");
 user_pref("browser.shell.mostRecentDateSetAsDefault", "1638287327");
 user_pref("browser.startup.couldRestoreSession.count", 1);
