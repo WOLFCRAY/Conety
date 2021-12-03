@@ -1,0 +1,5 @@
+[2021-12-03 17:14:03.948] [renderer1] [info] Starting extension host with pid 4124.
+[2021-12-03 17:14:03.949] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 29 ms.
+[2021-12-03 17:14:06.168] [renderer1] [error] [Extension Host] (node:4124) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-03 17:45:33.850] [renderer1] [info] Enabling inspect port on extension host with pid 4124.

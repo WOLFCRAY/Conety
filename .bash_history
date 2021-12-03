@@ -161,3 +161,39 @@ more .git-credentials
 git branch develop
 git checkout develop 
 git push origin develop
+ls
+ls -al
+git branch
+git checkout Pallango 
+git add .
+git checkout Pallango 
+git commit -am "cambios de rama"
+git checkout Pallango 
+ls
+cat README.md 
+git checkout Martin 
+git add .
+git commit -am "cambios de rama"
+git checkout Martin 
+ls-al
+ls -al
+cd ..
+ls
+cd odoo/
+ls -al
+sudo code README.md 
+cd ..
+ls
+cd etc/
+ls
+cd sudoers.d/
+ls
+cd ..
+nano sudoers
+sudo nano sudoers
+sudo su-dammie nano sudoers
+sudo su dammie
+cd
+ls
+sudo code README.md 
+code README.md 

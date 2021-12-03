@@ -1,0 +1,10 @@
+[2021-12-03 17:14:01.672] [main] [info] update#setState idle
+[2021-12-03 17:14:31.679] [main] [info] update#setState checking for updates
+[2021-12-03 17:14:31.694] [main] [info] update#setState available for download
+[2021-12-03 17:40:08.068] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+[2021-12-03 17:42:00.475] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+[2021-12-03 18:08:30.356] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+[2021-12-03 18:08:41.202] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+[2021-12-03 18:09:01.171] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+[2021-12-03 18:09:04.728] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+[2021-12-03 18:12:36.738] [main] [error] CodeWindow: failed to load (reason: <unknown>, code: -3)

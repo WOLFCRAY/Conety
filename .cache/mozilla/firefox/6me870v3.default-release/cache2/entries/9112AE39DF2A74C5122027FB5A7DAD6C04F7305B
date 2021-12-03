@@ -1,0 +1,392 @@
+
+        
+        <!DOCTYPE html>
+        
+        
+            
+        
+    <html lang="es-ES" data-website-id="1" data-oe-company-name="CONETY">
+            
+        
+            
+                
+            
+            
+            
+            
+                
+            
+        
+        
+    <head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+        <meta name="generator" content="Odoo"/>
+        
+        
+        
+            
+            
+            
+        
+        
+        
+            
+            
+            
+                
+                    
+                        <meta property="og:type" content="website"/>
+                    
+                
+                    
+                        <meta property="og:title" content="Login | My Website"/>
+                    
+                
+                    
+                        <meta property="og:site_name" content="CONETY"/>
+                    
+                
+                    
+                        <meta property="og:url" content="http://localhost:8069/web/login"/>
+                    
+                
+                    
+                        <meta property="og:image" content="http://localhost:8069/web/image/website/1/logo?unique=9083fbb"/>
+                    
+                
+            
+            
+            
+                
+                    <meta name="twitter:card" content="summary_large_image"/>
+                
+                    <meta name="twitter:title" content="Login | My Website"/>
+                
+                    <meta name="twitter:image" content="http://localhost:8069/web/image/website/1/logo?unique=9083fbb"/>
+                
+            
+        
+
+        
+            
+            
+        
+        <link rel="canonical" href="http://localhost:8069/web/login"/>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+    
+        
+
+                <title> Login | My Website </title>
+                <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=9083fbb"/>
+            <link rel="preload" href="/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="/web/content/724-3ae6a2d/1/web.assets_common.css" data-asset-xmlid="web.assets_common" data-asset-version="3ae6a2d"/>
+            <link type="text/css" rel="stylesheet" href="/web/content/715-cf397ee/1/web.assets_frontend.css" data-asset-xmlid="web.assets_frontend" data-asset-version="cf397ee"/>
+        
+    
+        
+
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "fdfef02e3fb7cc2cab9eb16987d53358cdf64f88o1670083438",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.session_info = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "translationURL": "/website/translations", "cache_hashes": {"translations": "fa976b82fa325bd6a11b1b6648aa9d963a73bae7"}};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="/web/content/232-548815e/1/web.assets_common_minimal_js.js" data-asset-xmlid="web.assets_common_minimal_js" data-asset-version="548815e"></script>
+            <script defer="defer" type="text/javascript" src="/web/content/233-61ecd2e/1/web.assets_frontend_minimal_js.js" data-asset-xmlid="web.assets_frontend_minimal_js" data-asset-version="61ecd2e"></script>
+            
+        
+    
+            <script defer="defer" type="text/javascript" data-src="/web/content/717-8a7adc6/1/web.assets_common_lazy.js" data-asset-xmlid="web.assets_common_lazy" data-asset-version="8a7adc6"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/content/718-99d71aa/1/web.assets_frontend_lazy.js" data-asset-xmlid="web.assets_frontend_lazy" data-asset-version="99d71aa"></script>
+        
+    
+        
+
+                
+            
+        
+    </head>
+            <body class="">
+                
+        
+    
+            
+            
+        <div id="wrapwrap" class="   ">
+                <header id="top" data-anchor="true" data-name="Header" class="  o_header_disappears">
+                    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
+            <div id="top_menu_container" class="container justify-content-start justify-content-lg-between">
+                
+    <a href="/" class="navbar-brand logo mr-4">
+            <span role="img" aria-label="Logo of My Website" title="My Website"><img src="/web/image/website/1/logo/My%20Website?unique=9083fbb" class="img img-fluid" alt="My Website" loading="lazy"/></span>
+        </a>
+    
+                
+    <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" class="navbar-toggler ml-auto">
+        <span class="navbar-toggler-icon o_not_editable"></span>
+    </button>
+
+                <div id="top_menu_collapse" class="collapse navbar-collapse order-last order-lg-0">
+                    
+    <ul id="top_menu" class="nav navbar-nav o_menu_loading mx-auto">
+        
+                        
+    
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/" class="nav-link ">
+            <span>Inicio</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/blog" class="nav-link ">
+            <span>Blog</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/contactus" class="nav-link ">
+            <span>Cont√°ctenos</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/suscripciones" class="nav-link ">
+            <span>Suscripciones</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/event" class="nav-link ">
+            <span>Eventos</span>
+        </a>
+    </li>
+    
+
+                        
+            
+        
+        
+            
+        
+        <li class="nav-item mx-lg-3 divider d-none"></li> <li class="o_wsale_my_cart d-none nav-item mx-lg-3">
+            <a href="/shop/cart" class="nav-link">
+                <i class="fa fa-shopping-cart"></i>
+                
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="">0</sup>
+            </a>
+        </li>
+    
+            
+        
+        
+            
+        
+        <li class="o_wsale_my_wish d-none nav-item mr-lg-3 o_wsale_my_wish_hide_empty">
+            <a href="/shop/wishlist" class="nav-link">
+                <i class="fa fa-1x fa-heart"></i>
+                
+                <sup class="my_wish_quantity o_animate_blink badge badge-primary">0</sup>
+            </a>
+        </li>
+    
+        
+        
+                        
+            <li class="nav-item ml-lg-auto o_no_autohide_item">
+                <a href="/web/login" class="nav-link font-weight-bold">Identificarse</a>
+            </li>
+        
+                        
+        
+        
+            
+        
+    
+    
+                    
+    </ul>
+
+                </div>
+                
+                <div class="oe_structure oe_structure_solo" id="oe_structure_header_default_1">
+      <section class="s_text_block o_colored_level" data-snippet="s_text_block" data-name="Text">
+        <div class="container">
+          <a href="/contactus" class="btn btn-primary ml-4" data-original-title="" title="" aria-describedby="tooltip877372">Cont√°ctenos</a>
+        </div>
+      </section>
+    </div>
+  </div>
+        </nav>
+    </header>
+                <main>
+                    
+            
+        
+            <div class="oe_website_login_container">
+            <form class="oe_login_form" role="form" method="post" onsubmit="this.action = '/web/login' + location.hash" action="/web/login">
+                <input type="hidden" name="csrf_token" value="fdfef02e3fb7cc2cab9eb16987d53358cdf64f88o1670083438"/>
+
+                <div class="form-group field-db">
+                    <label for="db" class="col-form-label">Base de datos</label>
+                    <div class="input-group ">
+                        <input type="text" name="db" id="db" required="required" readonly="readonly" value="conecty" class="form-control "/>
+                        <span class="input-group-append">
+                            <a role="button" href="/web/database/selector" class="btn btn-secondary">Select <i class="fa fa-database" role="img" aria-label="Base de datos" title="Base de datos"></i></a>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="form-group field-login">
+                    <label for="login">Correo electr√≥nico</label>
+                    <input type="text" placeholder="Correo electr√≥nico" name="login" id="login" required="required" autofocus="autofocus" autocapitalize="off" value="ernesto.ramiro@educa.madrid.org" class="form-control "/>
+                </div>
+
+                <div class="form-group field-password">
+                    <label for="password">Contrase√±a</label>
+                    <input type="password" placeholder="Contrase√±a" name="password" id="password" required="required" autocomplete="current-password" maxlength="4096" class="form-control " autofocus="autofocus"/>
+                </div>
+
+                <p class="alert alert-danger" role="alert">
+                    Usuario/contrase√±a incorrecta.
+                </p>
+                
+
+                <div class="clearfix oe_login_buttons text-center mb-1 pt-3">
+                    <button type="submit" class="btn btn-primary btn-block">Iniciar sesi√≥n</button>
+                <div class="justify-content-between mt-2 d-flex small">
+                    
+                    <a href="/web/reset_password">Restablecer contrase√±a</a>
+                </div>
+            
+                    
+                    <div class="o_login_auth"></div>
+                </div>
+
+                <input type="hidden" name="redirect" value=""/>
+            </form>
+        </div>
+        
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div id="footer" class="oe_structure oe_structure_solo" style="">
+      <section class="s_references pt48 pb32" data-snippet="s_references" data-name="References">
+        <div class="container">
+          <h2 style="text-align: center;">Nuestras referencias</h2>
+          <p style="text-align: center;" class="o_default_snippet_text">Estamos en buena compa√±√≠a.</p>
+          <div class="row">
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_1" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="358" data-original-src="/website/static/src/img/snippets_demo/s_references_1.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_2" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="359" data-original-src="/website/static/src/img/snippets_demo/s_references_2.png" data-mimetype="image/png" data-original-title="" title="" aria-describedby="tooltip874790"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_3" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="360" data-original-src="/website/static/src/img/snippets_demo/s_references_3.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_4" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="361" data-original-src="/website/static/src/img/snippets_demo/s_references_4.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_5" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="362" data-original-src="/website/static/src/img/snippets_demo/s_references_5.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_default_image_6" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="363" data-original-src="/website/static/src/img/snippets_demo/s_references_6.png" data-mimetype="image/png"/>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-left text-muted">
+                                    
+        
+    
+                                    <span class="o_footer_copyright_name mr-2">Copyright &copy; Company name</span>
+    
+    
+        
+        
+    
+        
+        
+    
+        
+    
+        
+                                </div>
+                                <div class="col-sm text-center text-sm-right o_not_editable">
+                                    
+        <div class="o_brand_promotion">
+            
+        
+        
+        Con tecnolog√≠a de 
+            <a target="_blank" class="badge badge-light" href="http://www.odoo.com?utm_source=db&amp;utm_medium=website">
+                <img alt="Odoo" src="/web/static/src/img/odoo_logo_tiny.png" style="height: 1em; vertical-align: baseline;" loading="lazy"/>
+            </a>
+        - 
+                    El #1 <a target="_blank" href="http://www.odoo.com/page/e-commerce?utm_source=db&amp;utm_medium=website">Comercio electr√≥nico de c√≥digo abierto</a>
+                
+    
+        </div>
+    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+        
+    
+            </div>
+        
+    
+        
+        
+    </body>
+        </html>
+    
+    
+    ÈB€—j      a™?Óa™?ÓC≤=)a™?Ó   Y    O^partitionKey=%28http%2Clocalhost%2C8069%29,~1638547238,:http://localhost:8069/web/login necko:classified 1 strongly-framed 1 request-method POST response-head HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: DENY
+Content-Length: 15097
+Server: Werkzeug/0.16.1 Python/3.8.10
+Date: Fri, 03 Dec 2021 16:03:58 GMT
+ original-response-headers Content-Type: text/html; charset=utf-8
+X-Frame-Options: DENY
+Set-Cookie: session_id=d3c778e78cdbc2e16e2aaaf1e1c432723b9eaa88; Expires=Thu, 03-Mar-2022 16:03:58 GMT; Max-Age=7776000; HttpOnly; Path=/
+Content-Length: 15097
+Server: Werkzeug/0.16.1 Python/3.8.10
+Date: Fri, 03 Dec 2021 16:03:58 GMT
+ ctid 1 uncompressed-len 0 net-response-time-onstart 109 net-response-time-onstop 176   :˘

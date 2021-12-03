@@ -1,0 +1,924 @@
+
+    
+    
+    <!DOCTYPE html>
+        
+        
+            
+        
+    <html lang="es-ES" data-website-id="1" data-editable="1" data-view-xmlid="website_event.event_description_full" data-viewid="2558" data-main-object="event.event(1,)" data-oe-company-name="CONETY">
+            
+        
+            
+                
+            
+            
+            
+            
+                
+            
+        
+        
+    <head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+        <meta name="generator" content="Odoo"/>
+        
+        <meta name="default_title" content=" Conferencia primer lanzamiento | My Website "/>
+        
+            
+            
+            
+        <meta name="description"/>
+        <meta name="keywords"/>
+        
+            <meta name="default_description"/>
+            
+            
+                
+                    
+                        <meta property="og:type" content="website"/>
+                    
+                
+                    
+                        <meta property="og:title" content="Conferencia primer lanzamiento"/>
+                    
+                
+                    
+                        <meta property="og:site_name" content="CONETY"/>
+                    
+                
+                    
+                        <meta property="og:url" content="http://localhost:8069/event/conferencia-primer-lanzamiento-2022-02-05-2022-02-06-1/register"/>
+                    
+                
+                    
+                        <meta property="og:image" content=""/>
+                    
+                
+                    
+                        <meta property="og:description"/>
+                    
+                
+            
+            
+            
+                
+                    <meta name="twitter:card" content="summary"/>
+                
+                    <meta name="twitter:title" content="Conferencia primer lanzamiento"/>
+                
+                    <meta name="twitter:image" content=""/>
+                
+                    <meta name="twitter:description"/>
+                
+            
+        
+
+        
+            
+            
+        
+        <link rel="canonical" href="http://localhost:8069/event/conferencia-primer-lanzamiento-2022-02-05-2022-02-06-1/register"/>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+    
+        
+
+                <title> Conferencia primer lanzamiento | My Website </title>
+                <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=9083fbb"/>
+            <link rel="preload" href="/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="/web/content/724-3ae6a2d/1/web.assets_common.css" data-asset-xmlid="web.assets_common" data-asset-version="3ae6a2d"/>
+            <link type="text/css" rel="stylesheet" href="/web/content/715-cf397ee/1/web.assets_frontend.css" data-asset-xmlid="web.assets_frontend" data-asset-version="cf397ee"/>
+        <link type="text/css" rel="stylesheet" href="/web/content/716-45337f5/1/website.assets_editor.css" data-asset-xmlid="website.assets_editor" data-asset-version="45337f5"/>
+    
+        
+
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "bb8a195a8fde06e6d3c97b53281db794121e75a5o1670085441",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.session_info = {"is_admin": true, "is_system": true, "is_website_user": false, "user_id": 2, "is_frontend": true, "server_version": "14.0", "server_version_info": [14, 0, 0, "final", 0, ""], "translationURL": "/website/translations", "cache_hashes": {"translations": "44c51b302efd12ea4f646f153a4ba3642d941ee7"}, "website_id": 1, "website_company_id": 1};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="/web/content/232-548815e/1/web.assets_common_minimal_js.js" data-asset-xmlid="web.assets_common_minimal_js" data-asset-version="548815e"></script>
+            <script defer="defer" type="text/javascript" src="/web/content/233-61ecd2e/1/web.assets_frontend_minimal_js.js" data-asset-xmlid="web.assets_frontend_minimal_js" data-asset-version="61ecd2e"></script>
+            
+        
+    
+            <script defer="defer" type="text/javascript" data-src="/web/content/717-8a7adc6/1/web.assets_common_lazy.js" data-asset-xmlid="web.assets_common_lazy" data-asset-version="8a7adc6"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/content/718-99d71aa/1/web.assets_frontend_lazy.js" data-asset-xmlid="web.assets_frontend_lazy" data-asset-version="99d71aa"></script>
+        <script defer="defer" type="text/javascript" data-src="/web/content/719-45337f5/1/website.assets_editor.js" data-asset-xmlid="website.assets_editor" data-asset-version="45337f5"></script>
+    
+        
+
+                
+            
+        
+    </head>
+            <body class=" o_connected_user">
+                
+        
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    
+            
+            <nav id="oe_main_menu_navbar" class="o_main_navbar">
+                <ul id="oe_applications" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[1]">
+                    <li class="dropdown active">
+                        <a class="dropdown-toggle full" data-toggle="dropdown" href="#" accesskey="h">
+                            <i class="fa fa-th-large"></i> SITIO WEB
+                        </a>
+                        <div class="dropdown-menu" role="menu">
+                            </div>
+                    </li>
+                </ul>
+
+                <button type="button" class="fa fa-bars float-right d-block d-md-none o_mobile_menu_toggle" aria-label="Menú" title="Menú" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/button[1]"></button>
+
+                <ul class="o_menu_sections">
+                    <li class="dropdown" id="content-menu">
+                        <a id="content-menu-button" class="dropdown-toggle o-no-caret waves" data-toggle="dropdown" data-display="static" href="#" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[1]/a[1]">Páginas</a>
+                        <div class="dropdown-menu" role="menu">
+                            <a role="menuitem" data-action="edit_menu" href="#" title="Editar menú superior" class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[1]/div[1]/a[1]">Editar menú</a>
+                            <a role="menuitem" href="/website/pages" title="Administrar sus páginas del sitio web" class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[1]/div[1]/a[2]">Administrar páginas</a>
+                            
+                            
+                        </div>
+                    </li>
+                    <li class="dropdown" id="customize-menu" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[2]">
+                        <a class="dropdown-toggle o-no-caret waves" data-toggle="dropdown" data-display="static" href="#">Personalizar</a>
+                        <div class="dropdown-menu" role="menu">
+                            <a role="menuitem" href="#" data-action="ace" class="dropdown-item" id="html_editor">Editor de HTML/CSS/JS</a>
+                            <a role="menuitem" href="/web#action=website.action_website_add_features" class="dropdown-item" id="install_apps">Añadir características</a>
+                        </div>
+                    </li>
+                    <li class="dropdown" id="promote-menu" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[2]/li[3]">
+                        <a class="dropdown-toggle o-no-caret waves" data-toggle="dropdown" data-display="static" href="#">Promover</a>
+                        <div class="dropdown-menu oe_promote_menu" role="menu">
+                            <a role="menuitem" data-action="promote-current-page" href="#" title="Promover página en la web" class="dropdown-item">Optimizar SEO</a>
+                        </div>
+                    </li>
+                    
+        
+            <li class="js_publish_management d-block d-sm-block d-md-none css_unpublished" data-description="Evento" data-id="1" data-object="event.event">
+                <label class="o_switch o_switch_danger js_publish_btn">
+                    <input type="checkbox" data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/input[1]"/>
+                    <span data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/span[1]"></span>
+                    <span class="css_publish" data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/span[2]">Unpublished</span>
+                    <span class="css_unpublish" data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/span[3]">Published</span>
+                </label>
+            </li>
+        
+    
+                </ul>
+
+                <ul class="o_menu_systray d-none d-md-block">
+                    
+        
+            <li class="js_publish_management  css_unpublished" data-description="Evento" data-id="1" data-object="event.event">
+                <label class="o_switch o_switch_danger js_publish_btn" accesskey="p">
+                    <input type="checkbox" data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/input[1]"/>
+                    <span data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/span[1]"></span>
+                    <span class="css_publish" data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/span[2]">Unpublished</span>
+                    <span class="css_unpublish" data-oe-model="ir.ui.view" data-oe-id="1881" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/li[1]/label[1]/span[3]">Published</span>
+                </label>
+            </li>
+        
+    
+                    <li class="o_mobile_preview" id="mobile-menu" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[1]">
+                        <a data-action="show-mobile-preview" href="#" accesskey="v"><span title="Previsualización móvil" role="img" aria-label="Previsualización móvil" class="fa fa-mobile"></span></a>
+                    </li>
+                    
+
+                    <li class="o_new_content_menu" id="new-content-menu">
+                        <a href="#" accesskey="c" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/a[1]"><span class="fa fa-plus mr-2"></span>Nuevo</a>
+                        <div id="o_new_content_menu_choices" class="o_hidden">
+                            <div class="container pt32 pb32">
+                                <div class="row">
+                                    <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/div[1]">
+                                        <a href="#" data-action="new_page" aria-label="Nueva pagina" title="Nueva pagina">
+                                            <i class="fa fa-file-o"></i>
+                                            <p>Página</p>
+                                        </a>
+                                    </div>
+                                    
+                                        
+                                        <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[1]">
+                                            <a href="#" data-action="new_blog_post">
+                                                <i class="fa fa-rss"></i>
+                                                <p>Entrada del blog</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[2]">
+                                            <a href="#" data-action="new_event">
+                                                <i class="fa fa-ticket"></i>
+                                                <p>Evento</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_forum" class="col-md-4 mb8 o_new_content_element o_new_content_element_once" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[3]" data-module-id="256" data-module-shortdesc="Foro">
+                                            <a href="#" data-url="/forum" data-action="new_forum">
+                                                <i class="fa fa-comment"></i>
+                                                <p>Foro</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_hr_recruitment" class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[4]" data-module-id="346" data-module-shortdesc="Treball en línia">
+                                            <a href="#">
+                                                <i class="fa fa-briefcase"></i>
+                                                <p>Job Offer</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[5]">
+                                            <a href="#" data-action="new_product">
+                                                <i class="fa fa-shopping-cart"></i>
+                                                <p>Producto</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_slides" class="col-md-4 mb8 o_new_content_element" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[6]" data-module-id="122" data-module-shortdesc="eLearning">
+                                            <a href="#" data-action="new_slide_channel">
+                                                <i class="fa module_icon" style="background-image: url('/website/static/src/img/apps_thumbs/website_slide.svg');                                                     background-repeat: no-repeat; background-position: center;"></i>
+                                                <p>Curso</p>
+                                            </a>
+                                        </div>
+                                        
+                                        <div name="module_website_livechat" class="col-md-4 mb8 o_new_content_element o_new_content_element_once" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[3]/div[1]/div[1]/div[1]/t[1]/div[7]" data-module-id="167" data-module-shortdesc="Chat en vivo sitio web">
+                                            <a href="#" data-url="/livechat" data-action="new_channel">
+                                                <i class="fa fa-comments"></i>
+                                                <p>Livechat Widget</p>
+                                            </a>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="edit-page-menu" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[4]">
+                        <a data-action="edit" href="#" accesskey="a"><span class="fa fa-pencil mr-2"></span>Editar</a>
+                    </li>
+        
+    
+            
+        
+                    <li>
+                        <a role="button" class="btn btn-primary btn-sm dropdown-toggle css_edit_dynamic" data-toggle="dropdown" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[5]/a[1]">
+                            <span class="sr-only">Activar menú desplegable</span>
+                        </a>
+                        <div class="dropdown-menu" role="menu">
+                            <a role="menuitem" style="text-align: left;" class="dropdown-item" title="Editar en el backend" id="edit-in-backend" data-oe-model="ir.ui.view" data-oe-id="1882" data-oe-field="arch" data-oe-xpath="/data/xpath[2]/nav/ul[3]/li[5]/div[1]/a[1]" href="/web#view_type=form&amp;model=event.event&amp;id=1&amp;action=event.action_event_view&amp;menu_id=421">Editar en el backend</a>
+        
+    
+                        </div>
+                    </li>
+                    
+                    
+                </ul>
+            </nav>
+        <div id="wrapwrap" class="   ">
+                <header id="top" data-anchor="true" data-name="Header" class="  o_header_disappears">
+                    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
+            <div id="top_menu_container" class="container justify-content-start justify-content-lg-between">
+                
+    <a href="/" class="navbar-brand logo mr-4">
+            <span data-oe-model="website" data-oe-id="1" data-oe-field="logo" data-oe-type="image" data-oe-expression="website.logo" role="img" data-oe-field-xpath="/data/xpath/a/span[1]" aria-label="Logo of My Website" title="My Website"><img src="/web/image/website/1/logo/My%20Website?unique=9083fbb" class="img img-fluid" alt="My Website" loading="lazy"/></span>
+        </a>
+    
+                
+    <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" data-oe-model="ir.ui.view" data-oe-id="1775" data-oe-field="arch" data-oe-xpath="/t[1]/button[1]" class="navbar-toggler ml-auto">
+        <span class="navbar-toggler-icon o_not_editable"></span>
+    </button>
+
+                <div id="top_menu_collapse" class="collapse navbar-collapse order-last order-lg-0">
+                    
+    <ul id="top_menu" class="nav navbar-nav o_menu_loading mx-auto">
+        
+                        
+    
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="5" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Inicio</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/blog" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="8" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Blog</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/contactus" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="6" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Contáctenos</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/suscripciones" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="7" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Suscripciones</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="/event" class="nav-link ">
+            <span data-oe-model="website.menu" data-oe-id="13" data-oe-field="name" data-oe-type="char" data-oe-expression="submenu.name">Eventos</span>
+        </a>
+    </li>
+    
+
+                        
+            
+        
+        
+            
+        
+        <li data-oe-model="ir.ui.view" data-oe-id="2184" data-oe-field="arch" data-oe-xpath="/t[1]/li[1]" class="nav-item mx-lg-3 divider d-none"></li> <li class="o_wsale_my_cart  nav-item mx-lg-3">
+            <a href="/shop/cart" class="nav-link">
+                <i class="fa fa-shopping-cart" data-oe-model="ir.ui.view" data-oe-id="2184" data-oe-field="arch" data-oe-xpath="/t[1]/li[2]/a[1]/i[1]"></i>
+                
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="2">1</sup>
+            </a>
+        </li>
+    
+            
+        
+        
+            
+        
+        <li class="o_wsale_my_wish d-none nav-item mr-lg-3 o_wsale_my_wish_hide_empty">
+            <a href="/shop/wishlist" class="nav-link">
+                <i class="fa fa-1x fa-heart" data-oe-model="ir.ui.view" data-oe-id="2287" data-oe-field="arch" data-oe-xpath="/t[1]/li[1]/a[1]/i[1]"></i>
+                
+                <sup class="my_wish_quantity o_animate_blink badge badge-primary">0</sup>
+            </a>
+        </li>
+    
+        
+        
+                        
+            
+        
+                        
+        
+        
+            
+        
+    <li class="nav-item dropdown ml-lg-auto o_no_autohide_item">
+            <a href="#" role="button" data-toggle="dropdown" class="dropdown-toggle nav-link font-weight-bold">
+                
+                
+                <span class="">Administrator</span>
+            </a>
+            <div role="menu" class="dropdown-menu js_usermenu ">
+                
+            <a href="/my/home" role="menuitem" class="dropdown-item" data-oe-id="508" data-oe-xpath="/data/xpath/a" data-oe-model="ir.ui.view" data-oe-field="arch">Mi cuenta</a>
+        <div id="o_logout_divider" class="dropdown-divider" data-oe-model="ir.ui.view" data-oe-id="491" data-oe-field="arch" data-oe-xpath="/t[1]/li[1]/div[1]/div[1]"></div>
+                <a role="menuitem" id="o_logout" class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="491" data-oe-field="arch" data-oe-xpath="/t[1]/li[1]/div[1]/a[1]" href="/web/session/logout?redirect=/">Cerrar sesión</a>
+            </div>
+        </li>
+    
+                    
+    </ul>
+
+                </div>
+                
+                <div class="oe_structure oe_structure_solo" id="oe_structure_header_default_1" data-oe-id="2354" data-oe-xpath="/data/xpath/div" data-oe-model="ir.ui.view" data-oe-field="arch">
+      <section class="s_text_block o_colored_level" data-snippet="s_text_block" data-name="Text">
+        <div class="container">
+          <a href="/contactus" class="btn btn-primary ml-4" data-original-title="" title="" aria-describedby="tooltip877372">Contáctenos</a>
+        </div>
+      </section>
+    </div>
+  </div>
+        </nav>
+    </header>
+                <main>
+                    
+            
+        
+        
+        <div id="wrap" class="o_wevent_event js_event">
+            
+                <nav class="navbar navbar-light border-top shadow-sm d-print-none">
+                    <div class="container align-items-baseline justify-content-start">
+                        <a href="/event" class="navbar-brand h4 my-0 mr-0 mr-md-4" data-oe-model="ir.ui.view" data-oe-id="2556" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/t[1]/nav[1]/div[1]/a[1]">
+                            <i class="fa fa-long-arrow-left text-primary mr-2"></i>
+                            <span>Todos los eventos</span>
+                        </a>
+                        <ul class="navbar-nav flex-row ml-md-auto ml-0">
+                            
+                            <li class="nav-item mr-3">
+                                <a class="nav-link" href="/event?country=68">
+                                    <i class="fa fa-map-marker text-primary mr-2" data-oe-model="ir.ui.view" data-oe-id="2556" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/t[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]/i[1]"></i><span data-oe-model="event.event" data-oe-id="1" data-oe-field="country_id" data-oe-type="many2one" data-oe-expression="event.country_id" data-oe-many2one-id="68" data-oe-many2one-model="res.country" data-oe-field-xpath="/t[1]/t[1]/div[1]/t[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]/span[1]">España</span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="d-flex align-items-centerflex-wrap pl-sm-3 pr-0">
+                            
+    <form method="get" class="o_wevent_event_searchbar_form o_wait_lazy_js w-100 my-1 my-lg-0 ml-auto" action="/event">
+            
+            
+            <div role="search" class="input-group ml-auto">
+        
+        <input type="search" name="search" class="search-query form-control oe_search_box" data-oe-model="ir.ui.view" data-oe-id="2567" data-oe-field="arch" data-oe-xpath="/data/xpath[1]/form/t[3]/div[1]/input[1]" placeholder="Encontrar un evento ..."/>
+        <div class="input-group-append" data-oe-model="ir.ui.view" data-oe-id="2567" data-oe-field="arch" data-oe-xpath="/data/xpath[1]/form/t[3]/div[1]/div[1]">
+            <button type="submit" class="btn btn-primary oe_search_button" aria-label="Búsqueda" title="Búsqueda"><i class="fa fa-search"></i></button>
+        </div>
+    </div>
+
+            
+            
+                                
+                                
+                                
+                            
+        </form>
+    
+                        </div>
+                    </div>
+                </nav>
+            
+            
+        <div name="event" itemscope="itemscope" itemtype="http://schema.org/Event">
+            
+    
+    
+    <div data-name="Cubrir" data-use_size="True" data-use_filters="True" data-use_text_align="True" data-res-model="event.event" data-res-id="1" class="o_record_cover_container d-flex flex-column h-100 o_colored_level o_cc o_cc3 o_half_screen_height  ">
+        <div data-oe-model="ir.ui.view" data-oe-id="1852" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/div[1]" class="o_record_cover_component o_record_cover_image " style="background-image: none;"></div>
+        <div data-oe-model="ir.ui.view" data-oe-id="1852" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/div[2]" class="o_record_cover_component o_record_cover_filter oe_black" style="opacity: 0.4;"></div>
+        
+                
+                
+                
+                
+
+                <div class="container d-flex flex-column flex-grow-1 justify-content-around">
+                    <div class="o_wevent_event_title">
+                        
+                        <h1 data-oe-model="event.event" data-oe-id="1" data-oe-field="name" data-oe-type="char" data-oe-expression="event.name" class="o_wevent_event_name" itemprop="name" placeholder="Título del evento" data-oe-field-xpath="/t[1]/t[1]/div[1]/t[1]/div[1]/div[1]/h1[1]">Conferencia primer lanzamiento</h1>
+                        <h2 data-oe-model="event.event" data-oe-id="1" data-oe-field="subtitle" data-oe-type="char" data-oe-expression="event.subtitle" class="o_wevent_event_subtitle" placeholder="Subtítulo del evento" data-oe-field-xpath="/t[1]/t[1]/div[1]/t[1]/div[1]/div[1]/h2[1]"></h2>
+                    </div>
+                </div>
+                <div class="container">
+                    
+    <div class="alert alert-info rounded-0 o_website_event_configuration o_not_editable" role="status">
+        <a data-oe-model="ir.ui.view" data-oe-id="2559" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[1]" href="/web#id=1&amp;view_type=form&amp;model=event.event">
+            <i class="fa fa-pencil mr-2" role="img" aria-label="Edit" title="Edit event registration in backend"></i><em>Configure Event Tickets</em>
+        </a>
+    </div>
+    
+    
+    <form id="registration_form" class="mb-5" method="post" itemscope="itemscope" itemprop="offers" itemtype="http://schema.org/AggregateOffer" action="/event/conferencia-primer-lanzamiento-2022-02-05-2022-02-06-1/registration/new">
+        <input type="hidden" name="csrf_token" data-oe-model="ir.ui.view" data-oe-id="2559" data-oe-field="arch" data-oe-xpath="/t[1]/form[1]/input[1]" value="bb8a195a8fde06e6d3c97b53281db794121e75a5o1670085441"/>
+        <div id="o_wevent_tickets" class="bg-white shadow-sm o_wevent_js_ticket_details" data-folded-by-default="0">
+            
+            
+                <div class="d-flex justify-content-between align-items-center py-2 pl-3 pr-2 border-bottom">
+                    <div id="price-range" class="pr-3 d-none">
+        <span class="text-dark">
+            Desde
+            <span data-oe-type="monetary" data-oe-expression="event.event_ticket_ids[0].price_reduce"><span class="oe_currency_value">10,00</span> €</span>
+            a
+            <span data-oe-type="monetary" data-oe-expression="event.event_ticket_ids[-1].price_reduce"><span class="oe_currency_value">15,00</span> €</span>
+        </span>
+    </div>
+                    
+                    
+                    <a href="#" role="button" class="btn o_wevent_registration_btn text-left" data-target="#o_wevent_tickets_collapse" data-oe-model="ir.ui.view" data-oe-id="2559" data-oe-field="arch" data-oe-xpath="/t[1]/form[1]/div[1]/t[2]/div[1]/a[1]">
+                        <span class="py-2">Tickets</span>
+                        <span class="close d-none">×</span>
+                    </a>
+                </div>
+                <div id="o_wevent_tickets_collapse" class="collapse show">
+                    <div class="row px-3 py-3 mx-0 bg-light border-bottom">
+                        <div class="col-md-8 col-xs-12 p-0" itemscope="itemscope" itemtype="http://schema.org/Offer">
+                            <h5 data-oe-model="event.event.ticket" data-oe-id="1" data-oe-field="name" data-oe-type="char" data-oe-expression="ticket.name" itemprop="name" class="my-0" data-oe-field-xpath="/t[1]/form[1]/div[1]/t[2]/div[2]/div[1]/div[1]/h5[1]">Entrada</h5>
+                            
+                            <small class="text-muted mr-3" itemprop="availabilityEnds">Final de las ventas en <span data-oe-model="event.event.ticket" data-oe-id="1" data-oe-field="end_sale_date" data-oe-type="date" data-oe-expression="ticket.end_sale_date" data-oe-original="2022-01-31" data-oe-original-with-format="31/01/2022" itemprop="priceValidUntil" data-oe-field-xpath="/t[1]/form[1]/div[1]/t[2]/div[2]/div[1]/div[1]/small[1]/span[1]">31/01/2022</span></small>
+                            
+                        </div>
+                        <div class="col-md-4 col-xs-12 p-0 d-flex align-items-center justify-content-between">
+                            <div class="o_wevent_registration_multi_select">
+        
+            
+            <span data-oe-model="event.event.ticket" data-oe-id="1" data-oe-field="price_reduce" data-oe-type="monetary" data-oe-expression="ticket.price_reduce" data-oe-readonly="1" data-oe-field-xpath="/data/xpath[1]/t/span[1]"><span class="oe_currency_value">10,00</span> €</span>
+            
+            <span itemprop="price" class="d-none">10.0</span>
+            <span itemprop="priceCurrency" class="d-none">EUR</span>
+        
+    </div>
+                            <div class="w-auto ml-auto">
+                                <select class="custom-select" name="nb_register-1">
+                                    
+                                    
+                                    
+                                    
+                                        <option>0</option>
+                                    
+                                        <option>1</option>
+                                    
+                                        <option>2</option>
+                                    
+                                        <option>3</option>
+                                    
+                                        <option>4</option>
+                                    
+                                        <option>5</option>
+                                    
+                                        <option>6</option>
+                                    
+                                        <option>7</option>
+                                    
+                                        <option>8</option>
+                                    
+                                        <option>9</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                    </div><div class="row px-3 py-3 mx-0 bg-light border-bottom">
+                        <div class="col-md-8 col-xs-12 p-0" itemscope="itemscope" itemtype="http://schema.org/Offer">
+                            <h5 data-oe-model="event.event.ticket" data-oe-id="2" data-oe-field="name" data-oe-type="char" data-oe-expression="ticket.name" itemprop="name" class="my-0" data-oe-field-xpath="/t[1]/form[1]/div[1]/t[2]/div[2]/div[1]/div[1]/h5[1]">Entrada vip</h5>
+                            
+                            <small class="text-muted mr-3" itemprop="availabilityEnds">Final de las ventas en <span data-oe-model="event.event.ticket" data-oe-id="2" data-oe-field="end_sale_date" data-oe-type="date" data-oe-expression="ticket.end_sale_date" data-oe-original="2022-01-31" data-oe-original-with-format="31/01/2022" itemprop="priceValidUntil" data-oe-field-xpath="/t[1]/form[1]/div[1]/t[2]/div[2]/div[1]/div[1]/small[1]/span[1]">31/01/2022</span></small>
+                            
+                        </div>
+                        <div class="col-md-4 col-xs-12 p-0 d-flex align-items-center justify-content-between">
+                            <div class="o_wevent_registration_multi_select">
+        
+            
+            <span data-oe-model="event.event.ticket" data-oe-id="2" data-oe-field="price_reduce" data-oe-type="monetary" data-oe-expression="ticket.price_reduce" data-oe-readonly="1" data-oe-field-xpath="/data/xpath[1]/t/span[1]"><span class="oe_currency_value">15,00</span> €</span>
+            
+            <span itemprop="price" class="d-none">15.0</span>
+            <span itemprop="priceCurrency" class="d-none">EUR</span>
+        
+    </div>
+                            <div class="w-auto ml-auto">
+                                <select class="custom-select" name="nb_register-2">
+                                    
+                                    
+                                    
+                                    
+                                        <option>0</option>
+                                    
+                                        <option>1</option>
+                                    
+                                        <option>2</option>
+                                    
+                                        <option>3</option>
+                                    
+                                        <option>4</option>
+                                    
+                                        <option>5</option>
+                                    
+                                        <option>6</option>
+                                    
+                                        <option>7</option>
+                                    
+                                        <option>8</option>
+                                    
+                                        <option>9</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row no-gutters">
+                        <div class="col-md-4 offset-md-8 py-2 pl-md-0 pr-md-2">
+                            <button type="submit" class="btn btn-primary o_wait_lazy_js btn-block a-submit" disabled="" id="1">
+                                Registro
+                                
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+    </form>
+
+                </div>
+            
+    </div>
+
+            
+        <section class="bg-200 mt-n5">
+            <div class="container overflow-hidden">
+                <div class="row no-gutters mt-n4 mb-3">
+                    <div id="o_wevent_event_main_col" class="col-lg-8 bg-white px-3 pt-5 pb-0 shadow-sm">
+                        <span data-oe-model="event.event" data-oe-id="1" data-oe-field="description" data-oe-type="html" data-oe-expression="event.description" itemprop="description" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[1]/span[1]"><section class="s_text_block">
+            <h5>Acompáñanos en este evento de 24 horas</h5>
+            <p>¡Cada año invitamos a nuestra comunidad, partners y usuarios a que vengan a conocernos! Es el evento ideal para reunirse y presentar nuevas funciones, el mapa de versiones futuras, logros del software, talleres, sesiones de capacitación, etc....
+            Este evento también es una oportunidad para mostrar los casos de estudio, metodologías y desarrollos de nuestros partners. ¡Asiste y presencia las funciones de la nueva versión directamente desde la fuente!</p>
+        </section>
+    </span>
+                    </div>
+                    <div class="col-lg-4 bg-light shadow-sm d-print-none">
+                        <div class="o_wevent_sidebar_block">
+                            <h6 class="o_wevent_sidebar_title" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/h6[1]">Fecha y Hora</h6>
+                            <div class="d-flex">
+                                <h5 data-oe-model="event.event" data-oe-id="1" data-oe-field="date_begin" data-oe-type="datetime" data-oe-expression="event.with_context(tz=event.date_tz).date_begin" data-oe-original="2022-02-05 09:00:00" data-oe-original-with-format="05/02/2022 09:00:00" data-oe-original-tz="Europe/Madrid" class="my-1 mr-1" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]">sábado</h5>
+                                <h5 data-oe-model="event.event" data-oe-id="1" data-oe-field="date_begin" data-oe-type="datetime" data-oe-expression="event.with_context(tz=event.date_tz).date_begin" data-oe-original="2022-02-05 09:00:00" data-oe-original-with-format="05/02/2022 09:00:00" data-oe-original-tz="Europe/Madrid" class="my-1" itemprop="startDate" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[2]" datetime="2022-02-05 08:00:00">5 de febrero de 2022</h5>
+                            </div>
+                            Inicio -
+                            <span data-oe-model="event.event" data-oe-id="1" data-oe-field="date_begin" data-oe-type="datetime" data-oe-expression="event.with_context(tz=event.date_tz).date_begin" data-oe-original="2022-02-05 09:00:00" data-oe-original-with-format="05/02/2022 09:00:00" data-oe-original-tz="Europe/Madrid" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/span[1]">9:00</span>
+                            
+                                <i class="fa fa-long-arrow-down d-block text-muted mx-3 my-2" style="font-size: 1.5rem" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/t[3]/i[1]"></i>
+                                <div class="d-flex">
+                                    <h5 data-oe-model="event.event" data-oe-id="1" data-oe-field="date_end" data-oe-type="datetime" data-oe-expression="event.with_context(tz=event.date_tz).date_end" data-oe-original="2022-02-06 21:50:00" data-oe-original-with-format="06/02/2022 21:50:00" data-oe-original-tz="Europe/Madrid" class="my-1 mr-1" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/t[3]/div[1]/h5[1]">domingo</h5>
+                                    <h5 data-oe-model="event.event" data-oe-id="1" data-oe-field="date_end" data-oe-type="datetime" data-oe-expression="event.with_context(tz=event.date_tz).date_end" data-oe-original="2022-02-06 21:50:00" data-oe-original-with-format="06/02/2022 21:50:00" data-oe-original-tz="Europe/Madrid" class="my-1" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/t[3]/div[1]/h5[2]">6 de febrero de 2022</h5>
+                                </div>
+                                Fin -
+                                <span data-oe-model="event.event" data-oe-id="1" data-oe-field="date_end" data-oe-type="datetime" data-oe-expression="event.with_context(tz=event.date_tz).date_end" data-oe-original="2022-02-06 21:50:00" data-oe-original-with-format="06/02/2022 21:50:00" data-oe-original-tz="Europe/Madrid" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/t[3]/span[1]">21:50</span>
+                            
+                            <small class="d-block my-3 text-muted">Europe/Madrid</small>
+
+                            <div class="dropdown">
+                                <i class="fa fa-calendar mr-1" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/i[1]"></i>
+                                <a href="#" role="button" data-toggle="dropdown" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]">Añadir al calendario</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/a[1]" href="/event/1/ics?action=TEMPLATE&amp;text=Conferencia+primer+lanzamiento&amp;dates=20220205T080000Z%2F20220206T205000Z&amp;details=Conferencia+primer+lanzamiento&amp;location=CONETY+Calle+Falsa+123++++Espa%C3%B1a">Calendario/Outlook</a>
+                                    <a class="dropdown-item" target="_blank" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/a[2]" href="https://www.google.com/calendar/render?action=TEMPLATE&amp;text=Conferencia+primer+lanzamiento&amp;dates=20220205T080000Z%2F20220206T205000Z&amp;details=Conferencia+primer+lanzamiento&amp;location=CONETY+Calle+Falsa+123++++Espa%C3%B1a">Google</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="o_wevent_sidebar_block">
+                            <h6 class="o_wevent_sidebar_title" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[2]/h6[1]">Ubicación</h6>
+                            <h4 data-oe-model="event.event" data-oe-id="1" data-oe-field="address_id" data-oe-type="contact" data-oe-expression="event.address_id" data-oe-many2one-id="1" data-oe-many2one-model="res.partner" data-oe-contact-options="{&quot;widget&quot;: &quot;contact&quot;, &quot;fields&quot;: [&quot;name&quot;], &quot;tagName&quot;: &quot;h4&quot;, &quot;expression&quot;: &quot;event.address_id&quot;, &quot;type&quot;: &quot;contact&quot;, &quot;inherit_branding&quot;: true, &quot;translate&quot;: false}" class="" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[2]/h4[1]">
+    <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        
+        
+            
+    <div>
+        
+            <span itemprop="name">CONETY</span>
+        
+        
+        
+    </div>
+
+        
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            
+            
+            
+            
+            
+            
+            
+        </div>
+        
+        
+    </address>
+</h4>
+                            <div data-oe-model="event.event" data-oe-id="1" data-oe-field="address_id" data-oe-type="contact" data-oe-expression="event.address_id" data-oe-many2one-id="1" data-oe-many2one-model="res.partner" data-oe-contact-options="{&quot;widget&quot;: &quot;contact&quot;, &quot;fields&quot;: [&quot;address&quot;], &quot;no_marker&quot;: true, &quot;tagName&quot;: &quot;div&quot;, &quot;expression&quot;: &quot;event.address_id&quot;, &quot;type&quot;: &quot;contact&quot;, &quot;inherit_branding&quot;: true, &quot;translate&quot;: false}" itemprop="location" class="mb-2" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]">
+    <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        
+        
+            
+    
+
+        
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            <div class="d-flex align-items-baseline">
+                
+                <span class="w-100 o_force_ltr d-block" itemprop="streetAddress">Calle Falsa 123<br/> <br/>España</span>
+            </div>
+            
+            
+            
+            
+            
+            
+        </div>
+        
+        
+    </address>
+</div>
+                            <div data-oe-model="event.event" data-oe-id="1" data-oe-field="address_id" data-oe-type="contact" data-oe-expression="event.address_id" data-oe-many2one-id="1" data-oe-many2one-model="res.partner" data-oe-contact-options="{&quot;widget&quot;: &quot;contact&quot;, &quot;fields&quot;: [&quot;phone&quot;, &quot;mobile&quot;, &quot;email&quot;], &quot;tagName&quot;: &quot;div&quot;, &quot;expression&quot;: &quot;event.address_id&quot;, &quot;type&quot;: &quot;contact&quot;, &quot;inherit_branding&quot;: true, &quot;translate&quot;: false}" class="mb-3" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[2]">
+    <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        
+        
+            
+    
+
+        
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            
+            
+            
+            
+            
+            
+            <div><i class="fa fa-envelope fa-fw" role="img" aria-label="Correo electrónico" title="Correo electrónico"></i> <span itemprop="email">ernesto.ramiro@educa.madrid.org</span></div>
+        </div>
+        
+        
+    </address>
+</div>
+                            <i class="fa fa-map-marker fa-fw" role="img" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[2]/i[1]"></i>
+                            <a target="_blank" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[2]/a[1]" href="https://maps.google.com/maps?q=Calle+Falsa+123%2C++%2C+Espa%C3%B1a&amp;z=8">Obtener la dirección</a>
+                        </div>
+                        <div class="o_wevent_sidebar_block">
+                            <h6 class="o_wevent_sidebar_title" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[3]/h6[1]">Organizador</h6>
+                            <h4 data-oe-model="event.event" data-oe-id="1" data-oe-field="organizer_id" data-oe-type="many2one" data-oe-expression="event.organizer_id" data-oe-many2one-id="1" data-oe-many2one-model="res.partner" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[3]/h4[1]">CONETY</h4>
+                            <div data-oe-model="event.event" data-oe-id="1" data-oe-field="organizer_id" data-oe-type="contact" data-oe-expression="event.organizer_id" data-oe-many2one-id="1" data-oe-many2one-model="res.partner" data-oe-contact-options="{&quot;widget&quot;: &quot;contact&quot;, &quot;fields&quot;: [&quot;phone&quot;, &quot;mobile&quot;, &quot;email&quot;], &quot;tagName&quot;: &quot;div&quot;, &quot;expression&quot;: &quot;event.organizer_id&quot;, &quot;type&quot;: &quot;contact&quot;, &quot;inherit_branding&quot;: true, &quot;translate&quot;: false}" itemprop="location" data-oe-field-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[3]/div[1]">
+    <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        
+        
+            
+    
+
+        
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            
+            
+            
+            
+            
+            
+            <div><i class="fa fa-envelope fa-fw" role="img" aria-label="Correo electrónico" title="Correo electrónico"></i> <span itemprop="email">ernesto.ramiro@educa.madrid.org</span></div>
+        </div>
+        
+        
+    </address>
+</div>
+                        </div>
+                        <div class="o_wevent_sidebar_block">
+                            <h6 class="o_wevent_sidebar_title" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[4]/h6[1]">COMPARTIR</h6>
+                            <p class="mb-2" data-oe-model="ir.ui.view" data-oe-id="2558" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/section[1]/div[1]/div[1]/div[2]/div[4]/p[1]">Descubra lo que la gente ve y dice sobre este evento, y únase a la conversación.</p>
+                            
+    <div data-snippet="s_share" class="s_share text-left o_wevent_sidebar_social mx-n1">
+        
+        <a href="https://www.facebook.com/sharer/sharer.php?u={url}" target="_blank" class="s_share_facebook o_wevent_social_link">
+            <i data-oe-model="ir.ui.view" data-oe-id="1907" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[1]/i[1]" class="fa fa-facebook "></i>
+        </a>
+        <a href="https://twitter.com/intent/tweet?text={title}&amp;url={url}" target="_blank" class="s_share_twitter o_wevent_social_link">
+            <i data-oe-model="ir.ui.view" data-oe-id="1907" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[2]/i[1]" class="fa fa-twitter "></i>
+        </a>
+        <a href="http://www.linkedin.com/sharing/share-offsite/?url={url}" target="_blank" class="s_share_linkedin o_wevent_social_link">
+            <i data-oe-model="ir.ui.view" data-oe-id="1907" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[3]/i[1]" class="fa fa-linkedin "></i>
+        </a>
+        <a href="https://wa.me/?text={title}" target="_blank" class="s_share_whatsapp o_wevent_social_link">
+            <i data-oe-model="ir.ui.view" data-oe-id="1907" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[4]/i[1]" class="fa fa-whatsapp "></i>
+        </a>
+        <a href="http://pinterest.com/pin/create/button/?url={url}&amp;description={title}" target="_blank" class="s_share_pinterest o_wevent_social_link">
+            <i data-oe-model="ir.ui.view" data-oe-id="1907" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[5]/i[1]" class="fa fa-pinterest "></i>
+        </a>
+        <a href="mailto:?body={url}&amp;subject={title}" class="s_share_email o_wevent_social_link">
+            <i data-oe-model="ir.ui.view" data-oe-id="1907" data-oe-field="arch" data-oe-xpath="/t[1]/div[1]/a[6]/i[1]" class="fa fa-envelope "></i>
+        </a>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+        </div>
+    
+            
+            <div class="oe_structure oe_empty" id="oe_structure_website_event_layout_1" data-oe-model="ir.ui.view" data-oe-id="2556" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]/div[1]" data-editor-sub-message="Following content will appear on all events."></div>
+        </div>
+    
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div id="footer" class="oe_structure oe_structure_solo" style="" data-oe-id="2467" data-oe-xpath="/data/xpath/div" data-oe-model="ir.ui.view" data-oe-field="arch">
+      <section class="s_references pt48 pb32" data-snippet="s_references" data-name="References">
+        <div class="container">
+          <h2 style="text-align: center;">Nuestras referencias</h2>
+          <p style="text-align: center;" class="o_default_snippet_text">Estamos en buena compañía.</p>
+          <div class="row">
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_1" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="358" data-original-src="/website/static/src/img/snippets_demo/s_references_1.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_2" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="359" data-original-src="/website/static/src/img/snippets_demo/s_references_2.png" data-mimetype="image/png" data-original-title="" title="" aria-describedby="tooltip874790"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_3" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="360" data-original-src="/website/static/src/img/snippets_demo/s_references_3.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_4" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="361" data-original-src="/website/static/src/img/snippets_demo/s_references_4.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_demo_image_5" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="362" data-original-src="/website/static/src/img/snippets_demo/s_references_5.png" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/website.s_reference_default_image_6" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="363" data-original-src="/website/static/src/img/snippets_demo/s_references_6.png" data-mimetype="image/png"/>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-left text-muted">
+                                    
+        
+    
+                                    <span class="o_footer_copyright_name mr-2" data-oe-id="1771" data-oe-xpath="/data/xpath[16]/span" data-oe-model="ir.ui.view" data-oe-field="arch">Copyright &copy; Company name</span>
+    
+    
+        
+        
+    
+        
+        
+    
+        <div class="js_language_selector  dropup">
+            <button class="btn btn-sm btn-outline-secondary border-0 dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                
+        
+    <img class="o_lang_flag" data-oe-model="ir.ui.view" data-oe-id="1840" data-oe-field="arch" data-oe-xpath="/t[1]/img[1]" src="/base/static/img/country_flags/es.png?height=25" loading="lazy"/>
+
+    <span class="align-middle"> Español</span>
+            </button>
+            <div class="dropdown-menu" role="menu">
+                
+                    <a class="dropdown-item js_change_lang" href="/es/event/conferencia-primer-lanzamiento-2022-02-05-2022-02-06-1/register" data-url_code="es">
+                        
+        
+    <img class="o_lang_flag" data-oe-model="ir.ui.view" data-oe-id="1840" data-oe-field="arch" data-oe-xpath="/t[1]/img[1]" src="/base/static/img/country_flags/es.png?height=25" loading="lazy"/>
+
+    <span> Español</span>
+                    </a>
+                
+        
+    <a class="o_add_language d-none d-sm-block dropdown-item" href="/web#action=base.action_view_base_language_install&amp;website_id=1&amp;url_return=">
+        
+        <i class="fa fa-plus-circle" data-oe-model="ir.ui.view" data-oe-id="1841" data-oe-field="arch" data-oe-xpath="/t[1]/a[1]/i[1]"></i>
+        Add a language...
+    </a>
+
+    
+            </div>
+        </div>
+    
+        
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+        
+    
+            </div>
+        
+    
+        
+        
+    </body>
+        </html>
+    
+
+
+,U9;i      a�G�a�G�C�B�a�G�   �    O^partitionKey=%28http%2Clocalhost%2C8069%29,:http://localhost:8069/event/conferencia-primer-lanzamiento-2022-02-05-2022-02-06-1/register necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 58883
+Server: Werkzeug/0.16.1 Python/3.8.10
+Date: Fri, 03 Dec 2021 16:37:22 GMT
+ original-response-headers Content-Type: text/html; charset=utf-8
+Set-Cookie: session_id=bd3b23d92ce5bea5b4013174b991d17f36ae6461; Expires=Thu, 03-Mar-2022 16:37:22 GMT; Max-Age=7776000; HttpOnly; Path=/
+Content-Length: 58883
+Server: Werkzeug/0.16.1 Python/3.8.10
+Date: Fri, 03 Dec 2021 16:37:22 GMT
+ ctid 1 uncompressed-len 0 net-response-time-onstart 3678 net-response-time-onstop 3988   �

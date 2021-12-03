@@ -1,0 +1,13 @@
+9
+
+https://mail.google.com/mail/u/0/
+https://mail.google.com/mail/u/0/sw.js?offline_allowed=1
+true
+{0c134aca-69af-43ca-a8f7-d1d2fb0bf0d5}
+0
+1638547962881272
+1638547962884792
+1638547962714937
+0
+true
+#
