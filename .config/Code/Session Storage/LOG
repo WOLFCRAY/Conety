@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2021/12/03-18:14:30.132 16be Creating DB /opt/odoo/.config/Code/Session Storage since it was missing.
 2021/12/03-18:14:30.369 16be Reusing MANIFEST /opt/odoo/.config/Code/Session Storage/MANIFEST-000001
+=======
+2021/11/30-19:38:57.846 1c08 Reusing MANIFEST /opt/odoo/.config/Code/Session Storage/MANIFEST-000001
+2021/11/30-19:38:57.866 1c08 Recovering log #3
+2021/11/30-19:38:57.897 1c08 Reusing old log /opt/odoo/.config/Code/Session Storage/000003.log 
+>>>>>>> Pallango

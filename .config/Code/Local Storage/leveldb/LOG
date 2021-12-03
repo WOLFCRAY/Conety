@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2021/12/03-17:14:01.451 f9d Creating DB /opt/odoo/.config/Code/Local Storage/leveldb since it was missing.
 2021/12/03-17:14:01.478 f9d Reusing MANIFEST /opt/odoo/.config/Code/Local Storage/leveldb/MANIFEST-000001
+=======
+2021/11/30-16:47:26.534 b57 Reusing MANIFEST /opt/odoo/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2021/11/30-16:47:26.534 b57 Recovering log #3
+2021/11/30-16:47:26.534 b57 Reusing old log /opt/odoo/.config/Code/Local Storage/leveldb/000003.log 
+>>>>>>> Pallango

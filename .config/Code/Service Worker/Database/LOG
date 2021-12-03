@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2021/12/03-17:14:03.752 f9e Creating DB /opt/odoo/.config/Code/Service Worker/Database since it was missing.
 2021/12/03-17:14:03.781 f9e Reusing MANIFEST /opt/odoo/.config/Code/Service Worker/Database/MANIFEST-000001
+=======
+2021/11/30-16:47:26.655 b48 Reusing MANIFEST /opt/odoo/.config/Code/Service Worker/Database/MANIFEST-000001
+2021/11/30-16:47:26.656 b48 Recovering log #3
+2021/11/30-16:47:26.664 b48 Reusing old log /opt/odoo/.config/Code/Service Worker/Database/000003.log 
+>>>>>>> Pallango

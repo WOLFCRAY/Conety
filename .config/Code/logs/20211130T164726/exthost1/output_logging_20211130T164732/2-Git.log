@@ -1,0 +1,39 @@
+La validación encontró Git en: git
+Usando GIT 2.25.1 desde git
+> git rev-parse --git-dir
+Open repository: /opt/odoo
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Pallango refs/remotes/Pallango
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /opt/odoo/README.md
+> git cat-file -s 5564260d5e350714f6a9d328b625ea0af8af36f5
+> git status -z -u
+> git ls-files --stage -- /opt/odoo/README.md
+> git cat-file -s 5564260d5e350714f6a9d328b625ea0af8af36f5
+> git show --textconv :README.md
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Pallango refs/remotes/Pallango
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Pallango refs/remotes/Pallango
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Pallango refs/remotes/Pallango
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /opt/odoo/README.md
+> git cat-file -s 9445b45c56f7084e92f5cfc93ab87a68af3f3c6a
+> git show --textconv :README.md

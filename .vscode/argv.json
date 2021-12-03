@@ -20,5 +20,9 @@
 
 	// Unique id used for correlating crash reports sent from this instance.
 	// Do not edit this value.
+<<<<<<< HEAD
 	"crash-reporter-id": "46780213-8595-42e7-a9fe-471f64ff4aeb"
+=======
+	"crash-reporter-id": "4df6e231-8e12-49f3-84d0-3ff106316941"
+>>>>>>> Pallango
 }

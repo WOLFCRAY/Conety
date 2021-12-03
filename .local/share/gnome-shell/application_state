@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
+<<<<<<< HEAD
     <application id="org.gnome.Nautilus.desktop" score="15" last-seen="1638555999"/>
     <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
     <application id="org.gnome.FileRoller.desktop" score="3" last-seen="1638553800"/>
@@ -10,6 +11,19 @@
     <application id="snap-store_ubuntu-software-local-file.desktop" score="0" last-seen="0"/>
     <application id="gnome-control-center.desktop" score="7" last-seen="1638546942"/>
     <application id="org.gnome.gedit.desktop" score="1" last-seen="1638555874"/>
+=======
+    <application id="org.gnome.Nautilus.desktop" score="15" last-seen="1638556946"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.FileRoller.desktop" score="3" last-seen="1638553800"/>
+    <application id="firefox.desktop" score="229" last-seen="1638556449"/>
+    <application id="org.gnome.Terminal.desktop" score="420" last-seen="1638556402"/>
+    <application id="code.desktop" score="418" last-seen="1638551602"/>
+    <application id="snap-store_ubuntu-software-local-file.desktop" score="0" last-seen="0"/>
+    <application id="gitkraken-url-handler.desktop" score="285" last-seen="1638556934"/>
+    <application id="gnome-control-center.desktop" score="10" last-seen="1638556485"/>
+    <application id="gitkraken.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1638556943"/>
+>>>>>>> Pallango
     <application id="gnome-initial-setup.desktop" score="1" last-seen="1638361825"/>
   </context>
 </application-state>

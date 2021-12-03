@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "telemetry.machineId": "027ad41ebd75099d32369476a6a0721dc87d75afdc6305ff014006028bb2fbbb",
+=======
+    "telemetry.machineId": "cf414e27f10f3fc27ad6a64a1dd6a94c73eea8aff9be6520e294fe683f355216",
+>>>>>>> Pallango
     "openedPathsList": {
         "entries": [
             {
@@ -13,17 +17,26 @@
                 "items": [
                     {
                         "id": "workbench.action.files.newUntitledFile",
+<<<<<<< HEAD
                         "label": "&&New File"
                     },
                     {
                         "id": "workbench.action.newWindow",
                         "label": "New &&Window"
+=======
+                        "label": "&&Nuevo archivo"
+                    },
+                    {
+                        "id": "workbench.action.newWindow",
+                        "label": "&&Nueva ventana"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.files.openFile",
+<<<<<<< HEAD
                         "label": "&&Open File..."
                     },
                     {
@@ -37,11 +50,30 @@
                     {
                         "id": "submenuitem.30",
                         "label": "Open &&Recent",
+=======
+                        "label": "&&Abrir archivo..."
+                    },
+                    {
+                        "id": "workbench.action.files.openFolder",
+                        "label": "Abrir &&carpeta..."
+                    },
+                    {
+                        "id": "workbench.action.openWorkspace",
+                        "label": "Abrir área de t&&rabajo desde archivo..."
+                    },
+                    {
+                        "id": "submenuitem.30",
+                        "label": "Abrir &&reciente",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
+<<<<<<< HEAD
                                     "label": "&&Reopen Closed Editor",
+=======
+                                    "label": "&&Volver a abrir el editor cerrado",
+>>>>>>> Pallango
                                     "enabled": false
                                 },
                                 {
@@ -62,14 +94,22 @@
                                 },
                                 {
                                     "id": "workbench.action.openRecent",
+<<<<<<< HEAD
                                     "label": "&&More..."
+=======
+                                    "label": "&&Más..."
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.clearRecentFiles",
+<<<<<<< HEAD
                                     "label": "&&Clear Recently Opened"
+=======
+                                    "label": "&&Borrar abierto recientemente"
+>>>>>>> Pallango
                                 }
                             ]
                         }
@@ -79,6 +119,7 @@
                     },
                     {
                         "id": "addRootFolder",
+<<<<<<< HEAD
                         "label": "A&&dd Folder to Workspace..."
                     },
                     {
@@ -88,12 +129,24 @@
                     {
                         "id": "workbench.action.duplicateWorkspaceInNewWindow",
                         "label": "Duplicate Workspace"
+=======
+                        "label": "A&&gregar carpeta al área de trabajo..."
+                    },
+                    {
+                        "id": "workbench.action.saveWorkspaceAs",
+                        "label": "Guardar área de trabajo como..."
+                    },
+                    {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Área de trabajo duplicada"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.files.save",
+<<<<<<< HEAD
                         "label": "&&Save"
                     },
                     {
@@ -103,6 +156,17 @@
                     {
                         "id": "saveAll",
                         "label": "Save A&&ll",
+=======
+                        "label": "&&Guardar"
+                    },
+                    {
+                        "id": "workbench.action.files.saveAs",
+                        "label": "Guardar &&como..."
+                    },
+                    {
+                        "id": "saveAll",
+                        "label": "Guardar t&&odo",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
@@ -110,15 +174,24 @@
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
+<<<<<<< HEAD
                         "label": "A&&uto Save"
                     },
                     {
                         "id": "submenuitem.29",
                         "label": "&&Preferences",
+=======
+                        "label": "A&&utoguardado"
+                    },
+                    {
+                        "id": "submenuitem.29",
+                        "label": "&&Preferencias",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.openSettings",
+<<<<<<< HEAD
                                     "label": "&&Settings"
                                 },
                                 {
@@ -132,30 +205,58 @@
                                 {
                                     "id": "workbench.view.extensions",
                                     "label": "&&Extensions"
+=======
+                                    "label": "&&Configuración"
+                                },
+                                {
+                                    "id": "settings.filterByOnline",
+                                    "label": "&&Configuración de los servicios en línea"
+                                },
+                                {
+                                    "id": "settings.filterByTelemetry",
+                                    "label": "Configuración de telemetría"
+                                },
+                                {
+                                    "id": "workbench.view.extensions",
+                                    "label": "&&Extensiones"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.openGlobalKeybindings",
+<<<<<<< HEAD
                                     "label": "Keyboard Shortcuts"
                                 },
                                 {
                                     "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
                                     "label": "&&Migrate Keyboard Shortcuts from..."
+=======
+                                    "label": "Métodos abreviados de teclado"
+                                },
+                                {
+                                    "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
+                                    "label": "&&Migrar métodos abreviados de teclado desde..."
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
+<<<<<<< HEAD
                                     "label": "User &&Snippets"
+=======
+                                    "label": "&&Fragmentos de código del usuario"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.selectTheme",
+<<<<<<< HEAD
                                     "label": "&&Color Theme"
                                 },
                                 {
@@ -165,13 +266,28 @@
                                 {
                                     "id": "workbench.action.selectProductIconTheme",
                                     "label": "&&Product Icon Theme"
+=======
+                                    "label": "&&Tema de color"
+                                },
+                                {
+                                    "id": "workbench.action.selectIconTheme",
+                                    "label": "Tema de &&icono de archivo"
+                                },
+                                {
+                                    "id": "workbench.action.selectProductIconTheme",
+                                    "label": "&&Tema del icono del producto"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.userDataSync.actions.turnOn",
+<<<<<<< HEAD
                                     "label": "Turn on Settings Sync..."
+=======
+                                    "label": "Activar sincronización de configuración..."
+>>>>>>> Pallango
                                 }
                             ]
                         }
@@ -181,6 +297,7 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
+<<<<<<< HEAD
                         "label": "Re&&vert File"
                     },
                     {
@@ -190,13 +307,28 @@
                     {
                         "id": "workbench.action.closeWindow",
                         "label": "Clos&&e Window"
+=======
+                        "label": "Revertir a&&rchivo"
+                    },
+                    {
+                        "id": "workbench.action.closeActiveEditor",
+                        "label": "&&Cerrar editor"
+                    },
+                    {
+                        "id": "workbench.action.closeWindow",
+                        "label": "C&&errar ventana"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.quit",
+<<<<<<< HEAD
                         "label": "E&&xit"
+=======
+                        "label": "S&&alir"
+>>>>>>> Pallango
                     }
                 ]
             },
@@ -204,17 +336,26 @@
                 "items": [
                     {
                         "id": "undo",
+<<<<<<< HEAD
                         "label": "&&Undo"
                     },
                     {
                         "id": "redo",
                         "label": "&&Redo"
+=======
+                        "label": "&&Deshacer"
+                    },
+                    {
+                        "id": "redo",
+                        "label": "&&Rehacer"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.clipboardCutAction",
+<<<<<<< HEAD
                         "label": "Cu&&t"
                     },
                     {
@@ -224,34 +365,62 @@
                     {
                         "id": "editor.action.clipboardPasteAction",
                         "label": "&&Paste"
+=======
+                        "label": "Cor&&tar"
+                    },
+                    {
+                        "id": "editor.action.clipboardCopyAction",
+                        "label": "&&Copiar"
+                    },
+                    {
+                        "id": "editor.action.clipboardPasteAction",
+                        "label": "&&Pegar"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "actions.find",
+<<<<<<< HEAD
                         "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
                         "label": "&&Replace"
+=======
+                        "label": "&&Buscar"
+                    },
+                    {
+                        "id": "editor.action.startFindReplaceAction",
+                        "label": "&&Reemplazar"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.findInFiles",
+<<<<<<< HEAD
                         "label": "Find &&in Files"
                     },
                     {
                         "id": "workbench.action.replaceInFiles",
                         "label": "Replace &&in Files"
+=======
+                        "label": "Buscar &&en archivos"
+                    },
+                    {
+                        "id": "workbench.action.replaceInFiles",
+                        "label": "Reemplazar &&en archivos"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.commentLine",
+<<<<<<< HEAD
                         "label": "&&Toggle Line Comment"
                     },
                     {
@@ -261,6 +430,17 @@
                     {
                         "id": "editor.emmet.action.expandAbbreviation",
                         "label": "Emmet: E&&xpand Abbreviation"
+=======
+                        "label": "&&Alternar comentario de línea"
+                    },
+                    {
+                        "id": "editor.action.blockComment",
+                        "label": "Alternar &&bloque de comentario"
+                    },
+                    {
+                        "id": "editor.emmet.action.expandAbbreviation",
+                        "label": "Emmet: E&&xpandir abreviación"
+>>>>>>> Pallango
                     }
                 ]
             },
@@ -268,6 +448,7 @@
                 "items": [
                     {
                         "id": "editor.action.selectAll",
+<<<<<<< HEAD
                         "label": "&&Select All"
                     },
                     {
@@ -277,12 +458,24 @@
                     {
                         "id": "editor.action.smartSelect.shrink",
                         "label": "&&Shrink Selection"
+=======
+                        "label": "&&Seleccionar todo"
+                    },
+                    {
+                        "id": "editor.action.smartSelect.expand",
+                        "label": "&&Expandir selección"
+                    },
+                    {
+                        "id": "editor.action.smartSelect.shrink",
+                        "label": "&&Reducir selección"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.copyLinesUpAction",
+<<<<<<< HEAD
                         "label": "&&Copy Line Up"
                     },
                     {
@@ -300,12 +493,32 @@
                     {
                         "id": "editor.action.duplicateSelection",
                         "label": "&&Duplicate Selection"
+=======
+                        "label": "&&Copiar línea arriba"
+                    },
+                    {
+                        "id": "editor.action.copyLinesDownAction",
+                        "label": "Co&&piar línea abajo"
+                    },
+                    {
+                        "id": "editor.action.moveLinesUpAction",
+                        "label": "Mo&&ver línea arriba"
+                    },
+                    {
+                        "id": "editor.action.moveLinesDownAction",
+                        "label": "Mover &&línea abajo"
+                    },
+                    {
+                        "id": "editor.action.duplicateSelection",
+                        "label": "&&Duplicar selección"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.insertCursorAbove",
+<<<<<<< HEAD
                         "label": "&&Add Cursor Above"
                     },
                     {
@@ -327,17 +540,48 @@
                     {
                         "id": "editor.action.selectHighlights",
                         "label": "Select All &&Occurrences"
+=======
+                        "label": "&&Agregar cursor arriba"
+                    },
+                    {
+                        "id": "editor.action.insertCursorBelow",
+                        "label": "A&&gregar cursor abajo"
+                    },
+                    {
+                        "id": "editor.action.insertCursorAtEndOfEachLineSelected",
+                        "label": "Agregar c&&ursores a extremos de línea"
+                    },
+                    {
+                        "id": "editor.action.addSelectionToNextFindMatch",
+                        "label": "Agregar &&siguiente repetición"
+                    },
+                    {
+                        "id": "editor.action.addSelectionToPreviousFindMatch",
+                        "label": "Agregar r&&epetición anterior"
+                    },
+                    {
+                        "id": "editor.action.selectHighlights",
+                        "label": "Seleccionar todas las &&repeticiones"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.toggleMultiCursorModifier",
+<<<<<<< HEAD
                         "label": "Switch to Ctrl+Click for Multi-Cursor"
                     },
                     {
                         "id": "editor.action.toggleColumnSelection",
                         "label": "Column &&Selection Mode"
+=======
+                        "label": "Cambiar a Ctrl+Clic para cursor múltiple"
+                    },
+                    {
+                        "id": "editor.action.toggleColumnSelection",
+                        "label": "Modo de &&selección de columna"
+>>>>>>> Pallango
                     }
                 ]
             },
@@ -345,22 +589,35 @@
                 "items": [
                     {
                         "id": "workbench.action.showCommands",
+<<<<<<< HEAD
                         "label": "&&Command Palette..."
                     },
                     {
                         "id": "workbench.action.openView",
                         "label": "&&Open View..."
+=======
+                        "label": "&&Paleta de comandos..."
+                    },
+                    {
+                        "id": "workbench.action.openView",
+                        "label": "&&Abrir vista..."
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "submenuitem.20",
+<<<<<<< HEAD
                         "label": "&&Appearance",
+=======
+                        "label": "&&Apariencia",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
+<<<<<<< HEAD
                                     "label": "&&Full Screen"
                                 },
                                 {
@@ -370,36 +627,72 @@
                                 {
                                     "id": "workbench.action.toggleCenteredLayout",
                                     "label": "&&Centered Layout"
+=======
+                                    "label": "&&Pantalla completa"
+                                },
+                                {
+                                    "id": "workbench.action.toggleZenMode",
+                                    "label": "Modo zen"
+                                },
+                                {
+                                    "id": "workbench.action.toggleCenteredLayout",
+                                    "label": "&&Diseño centrado"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
+<<<<<<< HEAD
                                     "label": "Show Menu &&Bar",
+=======
+                                    "label": "Mostrar barra de &&menús",
+>>>>>>> Pallango
                                     "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
+<<<<<<< HEAD
                                     "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
                                     "label": "Show S&&tatus Bar",
+=======
+                                    "label": "Mostrar barra &&lateral",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleStatusbarVisibility",
+                                    "label": "Mostrar barra de e&&stado",
+>>>>>>> Pallango
                                     "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleActivityBarVisibility",
+<<<<<<< HEAD
                                     "label": "Show &&Activity Bar",
+=======
+                                    "label": "Mostrar &&barra de actividades",
+>>>>>>> Pallango
                                     "checked": true
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
+<<<<<<< HEAD
                                     "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
                                     "label": "Show &&Editor Area",
+=======
+                                    "label": "Mostrar &&panel"
+                                },
+                                {
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "Mostrar &&área de editor",
+>>>>>>> Pallango
                                     "checked": true
                                 },
                                 {
@@ -407,6 +700,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarPosition",
+<<<<<<< HEAD
                                     "label": "&&Move Side Bar Right"
                                 },
                                 {
@@ -416,12 +710,24 @@
                                 {
                                     "id": "workbench.action.positionPanelRight",
                                     "label": "Move Panel Right"
+=======
+                                    "label": "&&Mover barra lateral a la derecha"
+                                },
+                                {
+                                    "id": "workbench.action.positionPanelRight",
+                                    "label": "Mover el panel a la derecha"
+                                },
+                                {
+                                    "id": "workbench.action.positionPanelLeft",
+                                    "label": "Mover panel a la izquierda"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.zoomIn",
+<<<<<<< HEAD
                                     "label": "&&Zoom In"
                                 },
                                 {
@@ -431,17 +737,33 @@
                                 {
                                     "id": "workbench.action.zoomReset",
                                     "label": "&&Reset Zoom"
+=======
+                                    "label": "&&Ampliar"
+                                },
+                                {
+                                    "id": "workbench.action.zoomOut",
+                                    "label": "&&Alejar"
+                                },
+                                {
+                                    "id": "workbench.action.zoomReset",
+                                    "label": "&&Restablecer zoom"
+>>>>>>> Pallango
                                 }
                             ]
                         }
                     },
                     {
                         "id": "submenuitem.27",
+<<<<<<< HEAD
                         "label": "Editor &&Layout",
+=======
+                        "label": "Diseño del &&editor",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.splitEditorUp",
+<<<<<<< HEAD
                                     "label": "Split &&Up"
                                 },
                                 {
@@ -455,19 +777,39 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+=======
+                                    "label": "Dividir &&hacia arriba"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorDown",
+                                    "label": "Dividir hacia a&&bajo"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorLeft",
+                                    "label": "Dividir &&a la izquierda"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorRight",
+                                    "label": "Dividir a la &&derecha"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.splitEditorInGroup",
+<<<<<<< HEAD
                                     "label": "Split in &&Group"
+=======
+                                    "label": "Dividir en &&Grupo"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.editorLayoutSingle",
+<<<<<<< HEAD
                                     "label": "&&Single"
                                 },
                                 {
@@ -497,13 +839,48 @@
                                 {
                                     "id": "workbench.action.editorLayoutTwoColumnsBottom",
                                     "label": "Two &&Columns Bottom"
+=======
+                                    "label": "&&Sencillo"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoColumns",
+                                    "label": "&&Dos columnas"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutThreeColumns",
+                                    "label": "T&&res columnas"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoRows",
+                                    "label": "D&&os filas"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutThreeRows",
+                                    "label": "Tres &&filas"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoByTwoGrid",
+                                    "label": "&&Cuadrícula (2x2)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoRowsRight",
+                                    "label": "Dos fil&&as a la derecha"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoColumnsBottom",
+                                    "label": "Botón de dos &&columnas"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorGroupLayout",
+<<<<<<< HEAD
                                     "label": "Flip &&Layout"
+=======
+                                    "label": "Invertir &&diseño"
+>>>>>>> Pallango
                                 }
                             ]
                         }
@@ -513,11 +890,19 @@
                     },
                     {
                         "id": "workbench.view.explorer",
+<<<<<<< HEAD
                         "label": "&&Explorer"
                     },
                     {
                         "id": "workbench.view.search",
                         "label": "&&Search"
+=======
+                        "label": "&&Explorador"
+                    },
+                    {
+                        "id": "workbench.view.search",
+                        "label": "&&Buscar"
+>>>>>>> Pallango
                     },
                     {
                         "id": "workbench.view.scm",
@@ -525,17 +910,26 @@
                     },
                     {
                         "id": "workbench.view.debug",
+<<<<<<< HEAD
                         "label": "&&Run"
                     },
                     {
                         "id": "workbench.view.extensions",
                         "label": "E&&xtensions"
+=======
+                        "label": "&&Ejecutar"
+                    },
+                    {
+                        "id": "workbench.view.extensions",
+                        "label": "E&&xtensiones"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.actions.view.problems",
+<<<<<<< HEAD
                         "label": "&&Problems"
                     },
                     {
@@ -545,6 +939,17 @@
                     {
                         "id": "workbench.debug.action.toggleRepl",
                         "label": "De&&bug Console"
+=======
+                        "label": "&&Problemas"
+                    },
+                    {
+                        "id": "workbench.action.output.toggleOutput",
+                        "label": "&&Salida"
+                    },
+                    {
+                        "id": "workbench.debug.action.toggleRepl",
+                        "label": "Consola de de&&puración"
+>>>>>>> Pallango
                     },
                     {
                         "id": "workbench.action.terminal.toggleTerminal",
@@ -555,27 +960,47 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
+<<<<<<< HEAD
                         "label": "&&Word Wrap",
+=======
+                        "label": "&&Ajuste de palabra",
+>>>>>>> Pallango
                         "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
+<<<<<<< HEAD
                         "label": "Show &&Minimap",
+=======
+                        "label": "Mostrar &&minimapa",
+>>>>>>> Pallango
                         "checked": true
                     },
                     {
                         "id": "breadcrumbs.toggle",
+<<<<<<< HEAD
                         "label": "Show &&Breadcrumbs",
+=======
+                        "label": "Mostrar rutas de &&navegación",
+>>>>>>> Pallango
                         "checked": true
                     },
                     {
                         "id": "editor.action.toggleRenderWhitespace",
+<<<<<<< HEAD
                         "label": "&&Render Whitespace",
+=======
+                        "label": "&&Representar espacio en blanco",
+>>>>>>> Pallango
                         "checked": true
                     },
                     {
                         "id": "editor.action.toggleRenderControlCharacter",
+<<<<<<< HEAD
                         "label": "Render &&Control Characters",
+=======
+                        "label": "Representar &&caracteres de control",
+>>>>>>> Pallango
                         "checked": true
                     }
                 ]
@@ -584,76 +1009,129 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
+<<<<<<< HEAD
                         "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
                         "label": "&&Forward",
+=======
+                        "label": "&&Atrás"
+                    },
+                    {
+                        "id": "workbench.action.navigateForward",
+                        "label": "&&Reenviar",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
+<<<<<<< HEAD
                         "label": "&&Last Edit Location"
+=======
+                        "label": "&&Última ubicación de edición"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "submenuitem.32",
+<<<<<<< HEAD
                         "label": "Switch &&Editor",
+=======
+                        "label": "Cambiar &&editor",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.nextEditor",
+<<<<<<< HEAD
                                     "label": "&&Next Editor"
                                 },
                                 {
                                     "id": "workbench.action.previousEditor",
                                     "label": "&&Previous Editor"
+=======
+                                    "label": "&&Editor siguiente"
+                                },
+                                {
+                                    "id": "workbench.action.previousEditor",
+                                    "label": "&&Editor anterior"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.openNextRecentlyUsedEditor",
+<<<<<<< HEAD
                                     "label": "&&Next Used Editor"
                                 },
                                 {
                                     "id": "workbench.action.openPreviousRecentlyUsedEditor",
                                     "label": "&&Previous Used Editor"
+=======
+                                    "label": "&&Siguiente Editor usado"
+                                },
+                                {
+                                    "id": "workbench.action.openPreviousRecentlyUsedEditor",
+                                    "label": "&&Editor usado anterior"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.nextEditorInGroup",
+<<<<<<< HEAD
                                     "label": "&&Next Editor in Group"
                                 },
                                 {
                                     "id": "workbench.action.previousEditorInGroup",
                                     "label": "&&Previous Editor in Group"
+=======
+                                    "label": "&&Próximo editor en grupo"
+                                },
+                                {
+                                    "id": "workbench.action.previousEditorInGroup",
+                                    "label": "&&Editor anterior en el grupo"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.openNextRecentlyUsedEditorInGroup",
+<<<<<<< HEAD
                                     "label": "&&Next Used Editor in Group"
                                 },
                                 {
                                     "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
                                     "label": "&&Previous Used Editor in Group"
+=======
+                                    "label": "&&Editor siguiente usado del grupo"
+                                },
+                                {
+                                    "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
+                                    "label": "&&Editor anterior usado del grupo"
+>>>>>>> Pallango
                                 }
                             ]
                         }
                     },
                     {
                         "id": "submenuitem.33",
+<<<<<<< HEAD
                         "label": "Switch &&Group",
+=======
+                        "label": "Cambiar &&grupo",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.focusFirstEditorGroup",
+<<<<<<< HEAD
                                     "label": "Group &&1"
                                 },
                                 {
@@ -671,23 +1149,51 @@
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
                                     "label": "Group &&5"
+=======
+                                    "label": "Grupo &&1"
+                                },
+                                {
+                                    "id": "workbench.action.focusSecondEditorGroup",
+                                    "label": "Grupo &&2"
+                                },
+                                {
+                                    "id": "workbench.action.focusThirdEditorGroup",
+                                    "label": "Agrupar &&3"
+                                },
+                                {
+                                    "id": "workbench.action.focusFourthEditorGroup",
+                                    "label": "Grupo &&4"
+                                },
+                                {
+                                    "id": "workbench.action.focusFifthEditorGroup",
+                                    "label": "Grupo &&5"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
+<<<<<<< HEAD
                                     "label": "&&Next Group"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
                                     "label": "&&Previous Group"
+=======
+                                    "label": "&&Grupo siguiente"
+                                },
+                                {
+                                    "id": "workbench.action.focusPreviousGroup",
+                                    "label": "&&Grupo anterior"
+>>>>>>> Pallango
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
+<<<<<<< HEAD
                                     "label": "Group &&Left"
                                 },
                                 {
@@ -701,6 +1207,21 @@
                                 {
                                     "id": "workbench.action.focusBelowGroup",
                                     "label": "Group &&Below"
+=======
+                                    "label": "Agrupar a la &&izquierda"
+                                },
+                                {
+                                    "id": "workbench.action.focusRightGroup",
+                                    "label": "Agrupar a la &&derecha"
+                                },
+                                {
+                                    "id": "workbench.action.focusAboveGroup",
+                                    "label": "Agrupar &&arriba"
+                                },
+                                {
+                                    "id": "workbench.action.focusBelowGroup",
+                                    "label": "Agrupar &&debajo"
+>>>>>>> Pallango
                                 }
                             ]
                         }
@@ -710,17 +1231,26 @@
                     },
                     {
                         "id": "workbench.action.quickOpen",
+<<<<<<< HEAD
                         "label": "Go to &&File..."
                     },
                     {
                         "id": "workbench.action.showAllSymbols",
                         "label": "Go to Symbol in &&Workspace..."
+=======
+                        "label": "Ir a &&archivo..."
+                    },
+                    {
+                        "id": "workbench.action.showAllSymbols",
+                        "label": "Ir al símbolo en el área &&de trabajo..."
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.gotoSymbol",
+<<<<<<< HEAD
                         "label": "Go to &&Symbol in Editor..."
                     },
                     {
@@ -742,39 +1272,86 @@
                     {
                         "id": "editor.action.goToReferences",
                         "label": "Go to &&References"
+=======
+                        "label": "Ir al &&símbolo en el editor..."
+                    },
+                    {
+                        "id": "editor.action.revealDefinition",
+                        "label": "Ir a &&definición"
+                    },
+                    {
+                        "id": "editor.action.revealDeclaration",
+                        "label": "Ir a &&declaración"
+                    },
+                    {
+                        "id": "editor.action.goToTypeDefinition",
+                        "label": "Ir a la definición de &&tipo"
+                    },
+                    {
+                        "id": "editor.action.goToImplementation",
+                        "label": "Ir a &&implementaciones"
+                    },
+                    {
+                        "id": "editor.action.goToReferences",
+                        "label": "Ir a &&referencias"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.gotoLine",
+<<<<<<< HEAD
                         "label": "Go to &&Line/Column..."
                     },
                     {
                         "id": "editor.action.jumpToBracket",
                         "label": "Go to &&Bracket"
+=======
+                        "label": "Ir a la &&línea o columna..."
+                    },
+                    {
+                        "id": "editor.action.jumpToBracket",
+                        "label": "Ir al &&corchete"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.marker.nextInFiles",
+<<<<<<< HEAD
                         "label": "Next &&Problem"
                     },
                     {
                         "id": "editor.action.marker.prevInFiles",
                         "label": "Previous &&Problem"
+=======
+                        "label": "Siguiente &&problema"
+                    },
+                    {
+                        "id": "editor.action.marker.prevInFiles",
+                        "label": "Anterior &&problema"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.dirtydiff.next",
+<<<<<<< HEAD
                         "label": "Next &&Change"
                     },
                     {
                         "id": "editor.action.dirtydiff.previous",
                         "label": "Previous &&Change"
+=======
+                        "label": "&&Cambio siguiente"
+                    },
+                    {
+                        "id": "editor.action.dirtydiff.previous",
+                        "label": "Cambio &&anterior"
+>>>>>>> Pallango
                     }
                 ]
             },
@@ -782,6 +1359,7 @@
                 "items": [
                     {
                         "id": "workbench.action.debug.start",
+<<<<<<< HEAD
                         "label": "&&Start Debugging"
                     },
                     {
@@ -791,11 +1369,26 @@
                     {
                         "id": "workbench.action.debug.stop",
                         "label": "&&Stop Debugging",
+=======
+                        "label": "I&&niciar depuración"
+                    },
+                    {
+                        "id": "workbench.action.debug.run",
+                        "label": "Ejecutar &&sin depuración"
+                    },
+                    {
+                        "id": "workbench.action.debug.stop",
+                        "label": "&&Detener depuración",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.restart",
+<<<<<<< HEAD
                         "label": "&&Restart Debugging",
+=======
+                        "label": "&&Reiniciar depuración",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
@@ -803,34 +1396,58 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
+<<<<<<< HEAD
                         "label": "Open &&Configurations",
+=======
+                        "label": "Abrir &&configuraciones",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
+<<<<<<< HEAD
                         "label": "A&&dd Configuration..."
+=======
+                        "label": "A&&gregar configuración..."
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.debug.stepOver",
+<<<<<<< HEAD
                         "label": "Step &&Over",
+=======
+                        "label": "Depurar paso a paso por proce&&dimientos",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.stepInto",
+<<<<<<< HEAD
                         "label": "Step &&Into",
+=======
+                        "label": "&&Depurar paso a paso por instrucciones",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.stepOut",
+<<<<<<< HEAD
                         "label": "Step O&&ut",
+=======
+                        "label": "Depurar paso a paso para &&salir",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.continue",
+<<<<<<< HEAD
                         "label": "&&Continue",
+=======
+                        "label": "&&Continuar",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
@@ -838,15 +1455,24 @@
                     },
                     {
                         "id": "editor.debug.action.toggleBreakpoint",
+<<<<<<< HEAD
                         "label": "Toggle &&Breakpoint"
                     },
                     {
                         "id": "submenuitem.28",
                         "label": "&&New Breakpoint",
+=======
+                        "label": "Alter&&nar punto de interrupción"
+                    },
+                    {
+                        "id": "submenuitem.28",
+                        "label": "&&Nuevo punto de interrupción",
+>>>>>>> Pallango
                         "submenu": {
                             "items": [
                                 {
                                     "id": "editor.debug.action.conditionalBreakpoint",
+<<<<<<< HEAD
                                     "label": "&&Conditional Breakpoint..."
                                 },
                                 {
@@ -860,6 +1486,21 @@
                                 {
                                     "id": "editor.debug.action.addLogPoint",
                                     "label": "&&Logpoint..."
+=======
+                                    "label": "Punto de interrupción &&condicional..."
+                                },
+                                {
+                                    "id": "editor.debug.action.toggleInlineBreakpoint",
+                                    "label": "O&&unto de interrupción en línea"
+                                },
+                                {
+                                    "id": "workbench.debug.viewlet.action.addFunctionBreakpointAction",
+                                    "label": "Punto de interrupción de &&función..."
+                                },
+                                {
+                                    "id": "editor.debug.action.addLogPoint",
+                                    "label": "&&Punto de registro..."
+>>>>>>> Pallango
                                 }
                             ]
                         }
@@ -869,6 +1510,7 @@
                     },
                     {
                         "id": "workbench.debug.viewlet.action.enableAllBreakpoints",
+<<<<<<< HEAD
                         "label": "&&Enable All Breakpoints"
                     },
                     {
@@ -878,13 +1520,28 @@
                     {
                         "id": "workbench.debug.viewlet.action.removeAllBreakpoints",
                         "label": "Remove &&All Breakpoints"
+=======
+                        "label": "&&Habilitar todos los puntos de interrupción"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.disableAllBreakpoints",
+                        "label": "&&Deshabilitar todos los puntos de interrupción"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.removeAllBreakpoints",
+                        "label": "Quitar &&todos los puntos de interrupción"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "debug.installAdditionalDebuggers",
+<<<<<<< HEAD
                         "label": "&&Install Additional Debuggers..."
+=======
+                        "label": "&&Instalar los depuradores adicionales..."
+>>>>>>> Pallango
                     }
                 ]
             },
@@ -892,11 +1549,19 @@
                 "items": [
                     {
                         "id": "workbench.action.terminal.new",
+<<<<<<< HEAD
                         "label": "&&New Terminal"
                     },
                     {
                         "id": "workbench.action.terminal.split",
                         "label": "&&Split Terminal",
+=======
+                        "label": "&&Nuevo terminal"
+                    },
+                    {
+                        "id": "workbench.action.terminal.split",
+                        "label": "&&Dividir terminal",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
@@ -904,6 +1569,7 @@
                     },
                     {
                         "id": "workbench.action.tasks.runTask",
+<<<<<<< HEAD
                         "label": "&&Run Task..."
                     },
                     {
@@ -917,23 +1583,50 @@
                     {
                         "id": "workbench.action.terminal.runSelectedText",
                         "label": "Run &&Selected Text"
+=======
+                        "label": "&&Ejecutar tarea..."
+                    },
+                    {
+                        "id": "workbench.action.tasks.build",
+                        "label": "Ejecutar &&tarea de compilación..."
+                    },
+                    {
+                        "id": "workbench.action.terminal.runActiveFile",
+                        "label": "Ejecutar &&archivo activo"
+                    },
+                    {
+                        "id": "workbench.action.terminal.runSelectedText",
+                        "label": "Ejecutar &&texto seleccionado"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.tasks.showTasks",
+<<<<<<< HEAD
                         "label": "Show Runnin&&g Tasks...",
+=======
+                        "label": "Mostrar &&tareas en ejecución...",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.tasks.restartTask",
+<<<<<<< HEAD
                         "label": "R&&estart Running Task...",
+=======
+                        "label": "R&&reiniciar tarea en ejecución...",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
                         "id": "workbench.action.tasks.terminate",
+<<<<<<< HEAD
                         "label": "&&Terminate Task...",
+=======
+                        "label": "&&Finalizar tarea...",
+>>>>>>> Pallango
                         "enabled": false
                     },
                     {
@@ -941,11 +1634,19 @@
                     },
                     {
                         "id": "workbench.action.tasks.configureTaskRunner",
+<<<<<<< HEAD
                         "label": "&&Configure Tasks..."
                     },
                     {
                         "id": "workbench.action.tasks.configureDefaultBuildTask",
                         "label": "Configure De&&fault Build Task..."
+=======
+                        "label": "&&Configurar tareas..."
+                    },
+                    {
+                        "id": "workbench.action.tasks.configureDefaultBuildTask",
+                        "label": "Configurar &&tarea de compilación predeterminada..."
+>>>>>>> Pallango
                     }
                 ]
             },
@@ -953,6 +1654,7 @@
                 "items": [
                     {
                         "id": "workbench.action.openWalkthrough",
+<<<<<<< HEAD
                         "label": "Get Started"
                     },
                     {
@@ -962,6 +1664,17 @@
                     {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Documentation"
+=======
+                        "label": "Iniciar"
+                    },
+                    {
+                        "id": "workbench.action.showCommands",
+                        "label": "Mostrar todos los comandos"
+                    },
+                    {
+                        "id": "workbench.action.openDocumentationUrl",
+                        "label": "&&Documentación"
+>>>>>>> Pallango
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -969,13 +1682,18 @@
                     },
                     {
                         "id": "update.showCurrentReleaseNotes",
+<<<<<<< HEAD
                         "label": "&&Release Notes"
+=======
+                        "label": "&&Notas de la versión"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.keybindingsReference",
+<<<<<<< HEAD
                         "label": "&&Keyboard Shortcuts Reference"
                     },
                     {
@@ -985,12 +1703,24 @@
                     {
                         "id": "workbench.action.openTipsAndTricksUrl",
                         "label": "Tips and Tri&&cks"
+=======
+                        "label": "&&Referencia de métodos abreviados de teclado"
+                    },
+                    {
+                        "id": "workbench.action.openVideoTutorialsUrl",
+                        "label": "&&Tutoriales de vídeo"
+                    },
+                    {
+                        "id": "workbench.action.openTipsAndTricksUrl",
+                        "label": "Consejos y tru&&cos"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.openTwitterUrl",
+<<<<<<< HEAD
                         "label": "&&Join Us on Twitter"
                     },
                     {
@@ -1000,35 +1730,66 @@
                     {
                         "id": "workbench.action.openIssueReporter",
                         "label": "Report &&Issue"
+=======
+                        "label": "&&Únase a nosotros en Twitter"
+                    },
+                    {
+                        "id": "workbench.action.openRequestFeatureUrl",
+                        "label": "&&Buscar solicitudes de características"
+                    },
+                    {
+                        "id": "workbench.action.openIssueReporter",
+                        "label": "Reportar &&problema en inglés"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.openLicenseUrl",
+<<<<<<< HEAD
                         "label": "View &&License"
                     },
                     {
                         "id": "workbench.action.openPrivacyStatementUrl",
                         "label": "Privac&&y Statement"
+=======
+                        "label": "Ver &&licencia"
+                    },
+                    {
+                        "id": "workbench.action.openPrivacyStatementUrl",
+                        "label": "Declaración de privaci&&dad"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.toggleDevTools",
+<<<<<<< HEAD
                         "label": "Toggle Developer Tools"
                     },
                     {
                         "id": "workbench.action.openProcessExplorer",
                         "label": "Open &&Process Explorer"
+=======
+                        "label": "Alternar herramientas de desarrollo"
+                    },
+                    {
+                        "id": "workbench.action.openProcessExplorer",
+                        "label": "Abrir &&explorador de procesos"
+>>>>>>> Pallango
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.showAboutDialog",
+<<<<<<< HEAD
                         "label": "&&About"
+=======
+                        "label": "&&Acerca de"
+>>>>>>> Pallango
                     }
                 ]
             }
@@ -1277,7 +2038,11 @@
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
+<<<<<<< HEAD
                 "label": "Ctrl+Shift+-",
+=======
+                "label": "Ctrl+Mayús+-",
+>>>>>>> Pallango
                 "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
@@ -1429,7 +2194,11 @@
                 "userSettingsLabel": "shift+f9"
             },
             "workbench.action.terminal.new": {
+<<<<<<< HEAD
                 "label": "Ctrl+Shift+`",
+=======
+                "label": "Ctrl+Mayús+`",
+>>>>>>> Pallango
                 "isNative": false,
                 "userSettingsLabel": "ctrl+shift+`"
             },
@@ -1471,13 +2240,18 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
+<<<<<<< HEAD
             "sideBarWidth": 0,
+=======
+            "sideBarWidth": 182,
+>>>>>>> Pallango
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
+<<<<<<< HEAD
             "backupPath": "/opt/odoo/.config/Code/Backups/1638548042323",
             "uiState": {
                 "mode": 1,
@@ -1489,4 +2263,18 @@
         },
         "openedWindows": []
     }
+=======
+            "backupPath": "/opt/odoo/.config/Code/Backups/1638033256888",
+            "uiState": {
+                "mode": 0,
+                "x": 72,
+                "y": 101,
+                "width": 728,
+                "height": 573
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "/opt/odoo"
+>>>>>>> Pallango
 }

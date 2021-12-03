@@ -1,3 +1,7 @@
 [State]
+<<<<<<< HEAD
 timestamp=1638361808
+=======
+timestamp=1637911820
+>>>>>>> Pallango
 migrated=ubuntu-settings-migrate-to-defaults.18.10.1.py;ubuntu-volume-amplification-to-gnome;unity-gnome-shell-migration.17.10.py;

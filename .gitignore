@@ -2,5 +2,16 @@
 .gnupg/
 .gitlocal/
 .git-credentials
+<<<<<<< HEAD
 .gitkraken*
 .cache*
+=======
+
+.config/GitKraken/TransportSecurity
+.cache/
+.gitkraken/
+
+.config/dconf/user
+
+.local/share/recently-used.xbel
+>>>>>>> Pallango

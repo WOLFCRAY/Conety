@@ -162,6 +162,7 @@ git branch develop
 git checkout develop 
 git push origin develop
 <<<<<<< HEAD
+<<<<<<< HEAD
 pwd
 nano README.md 
 ls -ls README.md 
@@ -298,3 +299,99 @@ rmdir Documentos/
 rmdir Público/
 nano .gitignore
 sudo apt-get remove gitkraken 
+=======
+git branch
+git branch master
+git checkout master
+git add .
+pwd 
+ls -la
+git log
+ls
+ls dumps/
+git branch
+git status
+git add .
+git commit -am "algo de datos"
+git log
+git checkout master
+git add .
+git commit -am "clean up"
+git log
+git checkout develop
+git checkout master
+git branch
+git merge develop
+git log
+git log --oneline --graph --all
+git branch
+git log --oneline --graph --all
+git remote -v
+git push origin master
+ls
+git branch Pallango
+git branch Martin
+git branch
+git checkout Pallango 
+git add .
+git commit -am "rama Alex"
+
+git branch
+git branch -D develop
+git add .
+git commit -am "rama Alex"
+git push origin Palllango
+git push origin Pallango
+exit
+ls
+ls /opt/odoo/
+tail /etc/passwd
+history
+exit
+git branch
+git checkout Pallango
+git branch
+git add .
+git commit -am "readme"
+git help
+git commit help
+git commit -am "readme1"
+git checkout Pallango 
+git add .
+git commit -am "readme1"
+git checkout Pallango 
+git checkout Master
+git checkout
+git checkout master
+git add .
+git commit -am "readme Alex"
+git checkout master
+git checkout Pallango 
+git add .
+git commit -am "cambios"
+git checkout Pallango 
+git checkout
+git add .
+git commit -am "cambios"
+git checkout Pallango 
+git checkout
+git branch
+git add .
+git commit -am "readme Alex"
+git push origin Pallango
+git -graph
+branch
+git branch
+git -graph
+git help
+git status
+git help
+git log
+git log -graph
+git log --graph
+git log --all --graph
+git branch
+git add .
+git commit -am "readme sin imagenes"
+git push origin Pallango 
+>>>>>>> Pallango

@@ -3,5 +3,10 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
+<<<<<<< HEAD
 IBUS_ADDRESS=unix:abstract=/opt/odoo/.cache/ibus/dbus-CnipvdBx,guid=03c82483fa123cec60b0879a61aa3da6
 IBUS_DAEMON_PID=2000
+=======
+IBUS_ADDRESS=unix:abstract=/opt/odoo/.cache/ibus/dbus-2FEmrJYi,guid=fd941b6326e992b3605430a261a08d0d
+IBUS_DAEMON_PID=3510
+>>>>>>> Pallango
