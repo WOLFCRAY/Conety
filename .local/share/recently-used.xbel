@@ -13,4 +13,25 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///opt/odoo/.gitkraken/logs/repos/odoo-c74629ed/repo.txt" added="2021-12-03T18:24:24Z" modified="2021-12-03T18:24:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-12-03T18:24:24Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-03T18:24:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/odoo" added="2021-12-03T18:35:46Z" modified="2021-12-03T18:35:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="gitkraken" exec="&apos;gitkraken %u&apos;" modified="2021-12-03T18:35:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -2,7 +2,5 @@
 .gnupg/
 .gitlocal/
 .git-credentials
-
-.gitkraken/
-
-*.txt
+.gitkraken*
+.cache*

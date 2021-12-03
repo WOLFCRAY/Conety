@@ -250,3 +250,51 @@ ls
 sudo code README.md 
 code README.md 
 >>>>>>> Martin
+ls
+cat README.md 
+cls
+clear
+git config --list
+git config --global user.name "Alejandro Martin"
+git config --global user.email "alejandro.mf1002@gmail.com"
+nano .git/config
+git remote set-url https://github.com/Akame545
+git config credential.username --global "Akame545"
+git add .
+git commit -am "README.md actualizado" 
+git branch
+git push origin martin
+git push origin Martin
+git checkout master
+git add .
+git commit -am "README.md actualizado v2" 
+git push origin Martin
+git checkout master
+git merge Martin
+git diff master Martin 
+git merge --no-commit
+git merge --no-commit Martin 
+nano .gitatributes
+nano .gitattributes
+git config --global merge.ours.driver true
+git merge Martin 
+git merge --no-commit Martin 
+git merge --ff Martin 
+git merge --overwrite-ignore Martin 
+git status
+nano .gitignore
+cd Descargas/
+sudo dpkg -i gitkraken-amd64.deb 
+cd ..
+ls
+rm Música/
+rmdir Música/
+rmdir Plantillas/
+rmdir Videos
+rmdir Vídeos/
+rmdir Escritorio/
+rmdir Escritorio/Documen
+rmdir Documentos/
+rmdir Público/
+nano .gitignore
+sudo apt-get remove gitkraken 
