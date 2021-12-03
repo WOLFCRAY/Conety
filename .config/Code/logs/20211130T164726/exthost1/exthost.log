@@ -1,0 +1,16 @@
+[2021-11-30 16:47:31.356] [exthost] [info] Extension host with pid 2984 started
+[2021-11-30 16:47:31.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-30 16:47:31.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-11-30 16:47:32.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-11-30 16:47:32.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-30 16:47:32.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-30 16:47:33.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-30 16:47:33.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-11-30 16:47:34.135] [exthost] [info] Eager extensions activated
+[2021-11-30 16:47:36.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-30 16:47:36.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-30 17:41:02.156] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 689
+[2021-11-30 18:33:01.280] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 747
+[2021-11-30 19:33:39.504] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 809
+[2021-11-30 19:38:54.508] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-30 19:38:56.280] [exthost] [info] Extension host with pid 2984 exiting with code 0

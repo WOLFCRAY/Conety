@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" score="2" last-seen="1637912342"/>
-    <application id="code.desktop" score="33" last-seen="1637912367"/>
-    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1637911874"/>
-    <application id="gnome-initial-setup.desktop" score="7" last-seen="1637911890"/>
-    <application id="org.gnome.Terminal.desktop" score="26" last-seen="1637912320"/>
+    <application id="org.gnome.Nautilus.desktop" score="245" last-seen="1638289671"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="gnome-initial-setup.desktop" score="5" last-seen="1638033248"/>
+    <application id="firefox.desktop" score="699" last-seen="1638289628"/>
+    <application id="org.gnome.Terminal.desktop" score="190" last-seen="1638290457"/>
+    <application id="code.desktop" score="2219" last-seen="1638297210"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1638103902"/>
+    <application id="gnome-control-center.desktop" score="12" last-seen="1638287317"/>
   </context>
 </application-state>

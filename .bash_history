@@ -209,3 +209,49 @@ ls /opt/odoo/
 tail /etc/passwd
 history
 exit
+git branch
+git checkout Pallango
+git branch
+git add .
+git commit -am "readme"
+git help
+git commit help
+git commit -am "readme1"
+git checkout Pallango 
+git add .
+git commit -am "readme1"
+git checkout Pallango 
+git checkout Master
+git checkout
+git checkout master
+git add .
+git commit -am "readme Alex"
+git checkout master
+git checkout Pallango 
+git add .
+git commit -am "cambios"
+git checkout Pallango 
+git checkout
+git add .
+git commit -am "cambios"
+git checkout Pallango 
+git checkout
+git branch
+git add .
+git commit -am "readme Alex"
+git push origin Pallango
+git -graph
+branch
+git branch
+git -graph
+git help
+git status
+git help
+git log
+git log -graph
+git log --graph
+git log --all --graph
+git branch
+git add .
+git commit -am "readme sin imagenes"
+git push origin Pallango 

@@ -1,0 +1,148 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "3e9ef5f0-ee0d-4997-b839-897515eb8f80",
+        "filter": "author:Akame545",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "Akame545"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b0a27605-6139-47be-9dd7-2efda69444a1",
+        "filter": "assignee:Akame545",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "Akame545"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8748fe89-d0f5-4326-8188-0644b37db537",
+        "filter": "review-requested:Akame545",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "Akame545"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "78d0c53f-4935-49c7-af6e-a12bab1c7b2f",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {
+    "github": {
+      "WOLFCRAY": {
+        "Conety": {
+          "hostingServiceType": "github",
+          "owner": "WOLFCRAY",
+          "name": "Conety"
+        }
+      }
+    }
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {
+      "HEAD": {
+        "name": "HEAD",
+        "oid": "2977717b25e1847d9cbf85efa680fe6dc67161d4",
+        "local": 0,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": "refs/heads/master"
+      },
+      "refs/heads/Martin": {
+        "name": "refs/heads/Martin",
+        "oid": "e979b1c3edfb6aaee18950617f2ae4309d3013ee",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/heads/Pallango": {
+        "name": "refs/heads/Pallango",
+        "oid": "1ff19cd61ec8da98ca68f0f0d5d3d2e7db437feb",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/heads/develop": {
+        "name": "refs/heads/develop",
+        "oid": "3b46c6277977edc952f6c9aac1834ba1b7fab23b",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      },
+      "refs/heads/master": {
+        "name": "refs/heads/master",
+        "oid": "2977717b25e1847d9cbf85efa680fe6dc67161d4",
+        "local": 1,
+        "loid": "0000000000000000000000000000000000000000",
+        "symrefTarget": null
+      }
+    }
+  },
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "id": "remote-origin",
+      "timestamps": [
+        1638556828940
+      ],
+      "total": 1
+    }
+  }
+}

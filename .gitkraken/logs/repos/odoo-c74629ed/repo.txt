@@ -1,0 +1,8 @@
+[2021-12-03T18:40:59.163Z] Auto-stash uncommitted changes: finished. Stash sha: f331baedc9965b97696e410d619d8488e0d83591 gk-log://duration?t=5877
+[2021-12-03T18:41:13.515Z] Merge origin/Pallango into Pallango: There are merge conflicts that need to be resolved
+[2021-12-03T18:41:13.518Z] Merge origin/Pallango into Pallango: finished with errors. gk-log://duration?t=42214
+[2021-12-03T18:41:13.529Z] Pull Pallango: merge failed
+[2021-12-03T18:41:13.530Z] Pull Pallango: finished with errors. gk-log://duration?t=66160
+[2021-12-03T18:41:31.223Z] Fetch all remotes: started.
+[2021-12-03T18:41:31.250Z] Fetch all remotes: finished. gk-log://duration?t=27
+[2021-12-03T18:41:39.394Z] Stage 1425 files for commit: started.
