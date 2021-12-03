@@ -3,33 +3,34 @@
 ## Introduccion
 
 ## Pagina Web
-Para la pagina web se ha optado por un tema con unos colores como el amarillo y un azul oscuro, el cual tiene una estructura de Inicio,Blog,Suscripciones,Contactenos y Eventos.
-Esta pagina web esta diseñada perfectamente para Conety, la cual aprovecha para la venta de sus suscripciones para poder brindar a los usuarios una experiencia mejor como se puede observar.
+Para la pagina web se ha optado por un tema con colores como el amarillo (#EFC631) y un azul oscuro (#012445), el cual tiene una estructura de Inicio,Blog,Suscripciones,Contactenos y Eventos.
+Esta página web esta diseñada perfectamente para Conety, la cual, aprovecha para la venta de suscripciones para poder brindar a los usuarios una experiencia mejor, como se puede observar.
 
 ![issue tab](Images/web.gif)
 
 ## Tablero
-    Para gestionar la pagina web internamente y agilizar las tareas de los trabajadores, se ha empleado un sistema de tareas en el cual resulta mas facil para los trabajadores organizarse en sus proyectos y poder llevarlos a cabo de una manera muy sencilla.
-
+Para gestionar la página web internamente y agilizar las tareas de los trabajadores, se ha empleado un sistema de tareas en el cual resulta mas fácil para los trabajadores organizarse en sus proyectos, y así poder llevarlos a cabo de una manera más sencilla.
+    
 ![issue tab](Images/general.png)
-Gestion global del tablero
 
-A continuacion observamos mas a detalle las tareas dentro de cada proyecto, en este caso vamos a observar el proyecto de **Puesta en marcha**.
+Gestión global del tablero
+
+A continuación observamos mas al detalle las tareas dentro de cada proyecto, en este caso vamos a entrar al proyecto de **Puesta en marcha**.
 
 ![issue tab](Images/gen1.png)
 
-Se puede observar que este proyecto consta de varias tareas, la cuales, se pueden asignar a favoritos, hacer un seguimiento de la tarea, asignar a un trabajor en concreto entre otras cosas, asi como se puede apreciar en la siguiente imagen.
+Se puede observar que este proyecto consta de varias tareas, la cuales, se pueden asignar a favoritos, hacer un seguimiento de la tarea, asignar a un trabajador en concreto entre otras cosas, asi como se puede apreciar en la siguiente imagen.
 
 ![issue tab](Images/gen2.png)
 
-
 ## Servicios
-El servicio que emplea Conety es la venta de suscripciones de vpn el cual tiene cuatro tipos diferentes.
+El servicio que ofrece Conety, es la venta de suscripciones de vpn, el cual tiene cuatro tipos diferentes, que son:
 
 ![issue tab](Images/venta.png)
-suscripciones vpn
+Suscripciones vpn.
 
-Una vez se tenga claroque suscripcion se desea, es tan sencillo como en clicar **Pidelo ahora** para poder comprarlo.
+Una vez se tenga claro cual suscripción se desea, es tan sencillo como, clickar **Pidelo ahora** para poder comprarlo.
+
 ![issue tab](Images/venta1.png)
 
 Se puede añadir al carrito para finalmente poder gestionar la compra.
@@ -44,12 +45,12 @@ Y finalmente confirmar el pedido.
 
 ![issue tab](Images/pago.png)
 
-En cuanto a la gestión interna del servicio se ha creado un punto de venta con las firentes suscripciones como se aprecia en la siguiente imagen.
+En cuanto a la gestión interna del servicio, se ha creado un punto de venta con las diferentes suscripciones como se aprecia en la siguiente imagen.
 
 ![issue tab](Images/venta2.png)
 ## Agenda
 
-Para poder mantener un orden de cada proyecto, Conety realiza una agenda en la que se puede estructurar de diversas maneras, por ejemplo se puede gestionar un calendario con reuniones que duran un día o unas horas.
+Para poder mantener un orden de cada proyecto, Conety realiza una agenda en la que se puede estructurar de diversas maneras, por ejemplo se puede gestionar un calendario con reuniones que podrían llegar a durar un día o unas horas.
 
 ![issue tab](Images/cal.png)
 Calendario de reuniones.
@@ -59,7 +60,7 @@ Entrando un poco mas en detalles, se puede observar que cada actividad en el cal
 ![issue tab](Images/cal1.png)
 Detalles de una actividad.
 
-Finalmente podemos ver las descripcion de una **Reunión** en concreto, en la que se puede apreciar la fecha,hora, duracion de la reunión; Estado de asistencia, el responsable, es decir quien lo ha gestionado, los participantes que estan involucrados, descripción si fuera necesario y privacidad a los cuales quienes estan involucrados.
+Finalmente podemos ver las descripcion de una **Reunión** en concreto, en la que se puede apreciar la fecha, hora, duración de la reunión, estado de asistencia, el responsable; es decir, quien lo ha gestionado, los participantes que estan involucrados, descripción si fuera necesario y privacidad de los cuales están involucrados.
 
 ![issue tab](Images/cal2.png)
 Descripción mas detallada.
