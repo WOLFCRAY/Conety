@@ -1,1 +1,4 @@
 [Fri Dec 03 2021 19:02:23 GMT+0100 (hora estándar de Europa central)] Merge Failed: There are merge conflicts that need to be resolved
+[Fri Dec 03 2021 19:11:33 GMT+0100 (hora estándar de Europa central)] Checkout Failed: 1 conflict prevents checkout. Commit, stash, or discard your changes first.
+[Fri Dec 03 2021 19:12:22 GMT+0100 (hora estándar de Europa central)] Checkout Failed: 2 conflicts prevent checkout. Commit, stash, or discard your changes first.
+[Fri Dec 03 2021 19:13:13 GMT+0100 (hora estándar de Europa central)] Checkout Failed: 2 conflicts prevent checkout. Commit, stash, or discard your changes first.

@@ -2,3 +2,5 @@
 .gnupg/
 .gitlocal/
 .git-credentials
+
+.gitkraken/
