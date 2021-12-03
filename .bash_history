@@ -161,3 +161,53 @@ more .git-credentials
 git branch develop
 git checkout develop 
 git push origin develop
+pwd
+nano README.md 
+ls -ls README.md 
+ls
+cd Descargas/
+ls
+cd ..
+ls
+rm -R Música/
+rm -R Vídeos/
+rm -R Plantillas/
+rm -R Imágenes/
+cd Documentos/
+ls
+cd ..
+rm -R Documentos/
+cd Público/
+ls
+ls -al
+cd ..
+rm -R Público/
+ls
+cd E
+cd Escritorio/
+ls -al
+cd ..
+rm -R Escritorio/
+ls
+ls -al
+ls
+clear
+ls
+git brach
+git branch
+git add .
+git commit -am "Clean setup"
+git push origin Pallango 
+git checkout Martin
+git checkout master
+git add .
+git commit -am "Clean setup1"
+git push origin Pallango 
+git checkout Martin
+git add .
+git commit -am "Clean setup"
+git push origin Martin 
+git checkout master 
+git add .
+git commit -am "Clean setup"
+git push origin master 
