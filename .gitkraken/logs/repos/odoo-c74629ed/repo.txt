@@ -1,0 +1,10 @@
+[2021-12-03T18:01:13.041Z] Merge Martin into master: started.
+[2021-12-03T18:01:13.329Z] Auto-stash uncommitted changes: started.
+[2021-12-03T18:01:13.435Z] Stage 1182 files for stash: started.
+[2021-12-03T18:01:47.193Z] Stage 1182 files for stash: finished. gk-log://duration?t=33758
+[2021-12-03T18:02:14.831Z] Auto-stash uncommitted changes: finished. Stash sha: 74a29cb4749ff94d56e7f9c7bd187109f93a8e94 gk-log://duration?t=61502
+[2021-12-03T18:02:22.963Z] Merge Martin into master: There are merge conflicts that need to be resolved
+[2021-12-03T18:02:22.974Z] Merge Martin into master: finished with errors. gk-log://duration?t=69933
+[2021-12-03T18:03:20.856Z] Stage 485 files for commit: started.
+[2021-12-03T18:03:22.249Z] Stage 485 files for commit: finished. gk-log://duration?t=1393
+[2021-12-03T18:04:09.180Z] Stage 472 files for commit: started.

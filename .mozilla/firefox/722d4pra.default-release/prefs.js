@@ -11,11 +11,20 @@
 
 user_pref("app.normandy.first_run", false);
 user_pref("app.normandy.migrationsApplied", 12);
+<<<<<<< HEAD
+=======
+user_pref("app.normandy.startupRolloutPrefs.media.peerconnection.mtransport_process", true);
+user_pref("app.normandy.startupRolloutPrefs.network.process.enabled", true);
+>>>>>>> Martin
 user_pref("app.normandy.user_id", "6fe45348-01e4-48bd-b923-f8a29efdd4e4");
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1637915392);
 user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1637912353);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1637911888);
+<<<<<<< HEAD
 user_pref("app.update.lastUpdateTime.region-update-timer", 1637915632);
+=======
+user_pref("app.update.lastUpdateTime.region-update-timer", 0);
+>>>>>>> Martin
 user_pref("app.update.lastUpdateTime.rs-experiment-loader-timer", 1637912325);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1637912473);
 user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1637915272);
@@ -83,7 +92,10 @@ user_pref("fission.experiment.max-origins.last-qualified", 1637911888);
 user_pref("fission.experiment.max-origins.qualified", true);
 user_pref("gfx.blacklist.layers.opengl", 4);
 user_pref("gfx.blacklist.layers.opengl.failureid", "FEATURE_FAILURE_SOFTWARE_GL");
+<<<<<<< HEAD
 user_pref("idle.lastDailyNotification", 1637915747);
+=======
+>>>>>>> Martin
 user_pref("media.gmp-gmpopenh264.abi", "x86_64-gcc3");
 user_pref("media.gmp-gmpopenh264.lastUpdate", 1637912402);
 user_pref("media.gmp-gmpopenh264.version", "1.8.1.1");
@@ -93,10 +105,14 @@ user_pref("media.gmp.storage.version.observed", 1);
 user_pref("network.trr.blocklist_cleanup_done", true);
 user_pref("pdfjs.enabledCache.state", true);
 user_pref("pdfjs.migrationVersion", 2);
+<<<<<<< HEAD
 user_pref("places.database.lastMaintenance", 1637915747);
 user_pref("privacy.purge_trackers.date_in_cookie_database", "0");
 user_pref("privacy.purge_trackers.last_purge", "1637915747927");
 user_pref("privacy.sanitize.pending", "[]");
+=======
+user_pref("privacy.sanitize.pending", "[{\"id\":\"newtab-container\",\"itemsToClear\":[],\"options\":{}}]");
+>>>>>>> Martin
 user_pref("security.remote_settings.crlite_filters.checked", 1637915081);
 user_pref("security.remote_settings.intermediates.checked", 1637915081);
 user_pref("security.sandbox.content.tempDirSuffix", "f16b8fd4-3a33-45ca-a3e8-7b23a5414724");
@@ -131,8 +147,11 @@ user_pref("services.settings.main.url-classifier-skip-urls.last_check", 16379150
 user_pref("services.settings.main.websites-with-shared-credential-backends.last_check", 1637915081);
 user_pref("services.settings.main.whats-new-panel.last_check", 1637915081);
 user_pref("services.settings.security.onecrl.checked", 1637915081);
+<<<<<<< HEAD
 user_pref("storage.vacuum.last.index", 0);
 user_pref("storage.vacuum.last.places.sqlite", 1637915747);
+=======
+>>>>>>> Martin
 user_pref("toolkit.startup.last_success", 1637912320);
 user_pref("toolkit.telemetry.cachedClientID", "2511386d-dc48-4b60-920a-bbac7ab47a5a");
 user_pref("toolkit.telemetry.pioneer-new-studies-available", true);

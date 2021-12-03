@@ -1,0 +1,20 @@
+[2021-12-03 17:14:06.302] [exthost] [info] Extension host with pid 4124 started
+[2021-12-03 17:14:06.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-03 17:14:06.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-03 17:14:06.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-03 17:14:07.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-03 17:14:07.424] [exthost] [info] Eager extensions activated
+[2021-12-03 17:14:07.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-03 17:14:07.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-03 17:20:17.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-03 17:20:17.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-03 17:20:18.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-03 17:20:20.591] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3967
+[2021-12-03 17:45:29.860] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4159
+[2021-12-03 17:55:16.985] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-03 17:55:17.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-03 17:55:17.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-03 17:55:58.953] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4187
+[2021-12-03 18:13:43.795] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4208
+[2021-12-03 18:14:28.596] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-03 18:14:29.640] [exthost] [info] Extension host with pid 4124 exiting with code 0
