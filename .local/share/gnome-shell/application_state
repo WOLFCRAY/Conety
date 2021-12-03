@@ -1,13 +1,17 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="245" last-seen="1638289671"/>
+    <application id="org.gnome.Nautilus.desktop" score="15" last-seen="1638556946"/>
     <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
-    <application id="gnome-initial-setup.desktop" score="5" last-seen="1638033248"/>
-    <application id="firefox.desktop" score="699" last-seen="1638289628"/>
-    <application id="org.gnome.Terminal.desktop" score="190" last-seen="1638290457"/>
-    <application id="code.desktop" score="2219" last-seen="1638297210"/>
-    <application id="org.gnome.gedit.desktop" score="1" last-seen="1638103902"/>
-    <application id="gnome-control-center.desktop" score="12" last-seen="1638287317"/>
+    <application id="org.gnome.FileRoller.desktop" score="3" last-seen="1638553800"/>
+    <application id="firefox.desktop" score="229" last-seen="1638556449"/>
+    <application id="org.gnome.Terminal.desktop" score="420" last-seen="1638556402"/>
+    <application id="code.desktop" score="418" last-seen="1638551602"/>
+    <application id="snap-store_ubuntu-software-local-file.desktop" score="0" last-seen="0"/>
+    <application id="gitkraken-url-handler.desktop" score="285" last-seen="1638556934"/>
+    <application id="gnome-control-center.desktop" score="10" last-seen="1638556485"/>
+    <application id="gitkraken.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1638556943"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1638361825"/>
   </context>
 </application-state>

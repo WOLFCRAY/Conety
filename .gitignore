@@ -2,3 +2,11 @@
 .gnupg/
 .gitlocal/
 .git-credentials
+
+.config/GitKraken/TransportSecurity
+.cache/
+.gitkraken/
+
+.config/dconf/user
+
+.local/share/recently-used.xbel
