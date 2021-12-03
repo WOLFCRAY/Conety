@@ -1,7 +1,4 @@
 # Conety
-
-## Introduccion
-
 ## Pagina Web
 Para la pagina web se ha optado por un tema con colores como el amarillo (#EFC631) y un azul oscuro (#012445), el cual tiene una estructura de Inicio,Blog,Suscripciones,Contactenos y Eventos.
 Esta página web esta diseñada perfectamente para Conety, la cual, aprovecha para la venta de suscripciones para poder brindar a los usuarios una experiencia mejor, como se puede observar.
